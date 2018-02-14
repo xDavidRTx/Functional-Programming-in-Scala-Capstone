@@ -1,0 +1,1262 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> C:\Users\David Pereira\Desktop\TF\observatory\project\target\scala-2.10\sbt-0.13\classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.10.5
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+89 items
+C:\Users\David Pereira\Desktop\TF\observatory\project\CommonBuild.scala -> C:\Users\David Pereira\Desktop\TF\observatory\project\target\scala-2.10\sbt-0.13\classes\CommonBuild$class.class
+C:\Users\David Pereira\Desktop\TF\observatory\project\CommonBuild.scala -> C:\Users\David Pereira\Desktop\TF\observatory\project\target\scala-2.10\sbt-0.13\classes\CommonBuild.class
+C:\Users\David Pereira\Desktop\TF\observatory\project\Courses.scala -> C:\Users\David Pereira\Desktop\TF\observatory\project\target\scala-2.10\sbt-0.13\classes\Assignment$.class
+C:\Users\David Pereira\Desktop\TF\observatory\project\Courses.scala -> C:\Users\David Pereira\Desktop\TF\observatory\project\target\scala-2.10\sbt-0.13\classes\Assignment.class
+C:\Users\David Pereira\Desktop\TF\observatory\project\Courses.scala -> C:\Users\David Pereira\Desktop\TF\observatory\project\target\scala-2.10\sbt-0.13\classes\CourseraId$.class
+C:\Users\David Pereira\Desktop\TF\observatory\project\Courses.scala -> C:\Users\David Pereira\Desktop\TF\observatory\project\target\scala-2.10\sbt-0.13\classes\CourseraId.class
+C:\Users\David Pereira\Desktop\TF\observatory\project\Courses.scala -> C:\Users\David Pereira\Desktop\TF\observatory\project\target\scala-2.10\sbt-0.13\classes\Courses$.class
+C:\Users\David Pereira\Desktop\TF\observatory\project\Courses.scala -> C:\Users\David Pereira\Desktop\TF\observatory\project\target\scala-2.10\sbt-0.13\classes\Courses.class
+C:\Users\David Pereira\Desktop\TF\observatory\project\Courses.scala -> C:\Users\David Pereira\Desktop\TF\observatory\project\target\scala-2.10\sbt-0.13\classes\StyleCheck$.class
+C:\Users\David Pereira\Desktop\TF\observatory\project\Courses.scala -> C:\Users\David Pereira\Desktop\TF\observatory\project\target\scala-2.10\sbt-0.13\classes\StyleCheck.class
+C:\Users\David Pereira\Desktop\TF\observatory\project\GradingFeedback.scala -> C:\Users\David Pereira\Desktop\TF\observatory\project\target\scala-2.10\sbt-0.13\classes\GradingFeedback.class
+C:\Users\David Pereira\Desktop\TF\observatory\project\GradingFeedback.scala -> C:\Users\David Pereira\Desktop\TF\observatory\project\target\scala-2.10\sbt-0.13\classes\RecordingLogger$.class
+C:\Users\David Pereira\Desktop\TF\observatory\project\GradingFeedback.scala -> C:\Users\David Pereira\Desktop\TF\observatory\project\target\scala-2.10\sbt-0.13\classes\RecordingLogger.class
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> C:\Users\David Pereira\Desktop\TF\observatory\project\target\scala-2.10\sbt-0.13\classes\GradingSummary$.class
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> C:\Users\David Pereira\Desktop\TF\observatory\project\target\scala-2.10\sbt-0.13\classes\GradingSummary.class
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> C:\Users\David Pereira\Desktop\TF\observatory\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner$$anon$2.class
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> C:\Users\David Pereira\Desktop\TF\observatory\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner$$anonfun$1.class
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> C:\Users\David Pereira\Desktop\TF\observatory\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner$$anonfun$10.class
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> C:\Users\David Pereira\Desktop\TF\observatory\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner$$anonfun$11.class
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> C:\Users\David Pereira\Desktop\TF\observatory\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner$$anonfun$12.class
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> C:\Users\David Pereira\Desktop\TF\observatory\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner$$anonfun$13.class
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> C:\Users\David Pereira\Desktop\TF\observatory\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner$$anonfun$14.class
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> C:\Users\David Pereira\Desktop\TF\observatory\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner$$anonfun$2.class
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> C:\Users\David Pereira\Desktop\TF\observatory\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner$$anonfun$3.class
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> C:\Users\David Pereira\Desktop\TF\observatory\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner$$anonfun$4.class
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> C:\Users\David Pereira\Desktop\TF\observatory\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner$$anonfun$5.class
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> C:\Users\David Pereira\Desktop\TF\observatory\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner$$anonfun$6.class
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> C:\Users\David Pereira\Desktop\TF\observatory\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner$$anonfun$7.class
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> C:\Users\David Pereira\Desktop\TF\observatory\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner$$anonfun$8.class
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> C:\Users\David Pereira\Desktop\TF\observatory\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner$$anonfun$9.class
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> C:\Users\David Pereira\Desktop\TF\observatory\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner$$anonfun$invokeScalaTestInSeparateProcess$1.class
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> C:\Users\David Pereira\Desktop\TF\observatory\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner$$anonfun$invokeScalaTestInSeparateProcess$2.class
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> C:\Users\David Pereira\Desktop\TF\observatory\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner$.class
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> C:\Users\David Pereira\Desktop\TF\observatory\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner$GradingSummaryUnpickler1$2$$anon$1$$typecreator1$1.class
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> C:\Users\David Pereira\Desktop\TF\observatory\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner$GradingSummaryUnpickler1$2$$anon$1.class
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> C:\Users\David Pereira\Desktop\TF\observatory\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner$GradingSummaryUnpickler1$2$.class
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> C:\Users\David Pereira\Desktop\TF\observatory\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner$LimitedStringBuffer.class
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> C:\Users\David Pereira\Desktop\TF\observatory\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner.class
+C:\Users\David Pereira\Desktop\TF\observatory\project\Settings.scala -> C:\Users\David Pereira\Desktop\TF\observatory\project\target\scala-2.10\sbt-0.13\classes\Settings$.class
+C:\Users\David Pereira\Desktop\TF\observatory\project\Settings.scala -> C:\Users\David Pereira\Desktop\TF\observatory\project\target\scala-2.10\sbt-0.13\classes\Settings.class
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuild.scala -> C:\Users\David Pereira\Desktop\TF\observatory\project\target\scala-2.10\sbt-0.13\classes\StudentBuild$.class
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuild.scala -> C:\Users\David Pereira\Desktop\TF\observatory\project\target\scala-2.10\sbt-0.13\classes\StudentBuild.class
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> C:\Users\David Pereira\Desktop\TF\observatory\project\target\scala-2.10\sbt-0.13\classes\AssignmentInfo$.class
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> C:\Users\David Pereira\Desktop\TF\observatory\project\target\scala-2.10\sbt-0.13\classes\AssignmentInfo.class
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> C:\Users\David Pereira\Desktop\TF\observatory\project\target\scala-2.10\sbt-0.13\classes\MapMapString$.class
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> C:\Users\David Pereira\Desktop\TF\observatory\project\target\scala-2.10\sbt-0.13\classes\MapMapString.class
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> C:\Users\David Pereira\Desktop\TF\observatory\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$1$$anonfun$2.class
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> C:\Users\David Pereira\Desktop\TF\observatory\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$1$$anonfun$3.class
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> C:\Users\David Pereira\Desktop\TF\observatory\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$1$$anonfun$4$$anonfun$apply$1.class
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> C:\Users\David Pereira\Desktop\TF\observatory\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$1$$anonfun$4.class
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> C:\Users\David Pereira\Desktop\TF\observatory\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$1.class
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> C:\Users\David Pereira\Desktop\TF\observatory\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$12$$anonfun$apply$10.class
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> C:\Users\David Pereira\Desktop\TF\observatory\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$12$$anonfun$apply$9.class
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> C:\Users\David Pereira\Desktop\TF\observatory\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$12.class
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> C:\Users\David Pereira\Desktop\TF\observatory\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$5.class
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> C:\Users\David Pereira\Desktop\TF\observatory\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$prepareJar$1.class
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> C:\Users\David Pereira\Desktop\TF\observatory\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$prepareJar$2.class
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> C:\Users\David Pereira\Desktop\TF\observatory\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$prepareJar$3.class
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> C:\Users\David Pereira\Desktop\TF\observatory\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$prepareJar$4.class
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> C:\Users\David Pereira\Desktop\TF\observatory\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$root$1.class
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> C:\Users\David Pereira\Desktop\TF\observatory\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$root$2.class
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> C:\Users\David Pereira\Desktop\TF\observatory\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$root$3.class
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> C:\Users\David Pereira\Desktop\TF\observatory\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$root$4.class
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> C:\Users\David Pereira\Desktop\TF\observatory\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$root$5.class
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> C:\Users\David Pereira\Desktop\TF\observatory\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$root$6.class
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> C:\Users\David Pereira\Desktop\TF\observatory\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$submitLocalSetting$1$$anonfun$apply$2$$anonfun$apply$3$$anonfun$apply$4.class
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> C:\Users\David Pereira\Desktop\TF\observatory\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$submitLocalSetting$1$$anonfun$apply$2$$anonfun$apply$3.class
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> C:\Users\David Pereira\Desktop\TF\observatory\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$submitLocalSetting$1$$anonfun$apply$2.class
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> C:\Users\David Pereira\Desktop\TF\observatory\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$submitLocalSetting$1.class
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> C:\Users\David Pereira\Desktop\TF\observatory\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$10.class
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> C:\Users\David Pereira\Desktop\TF\observatory\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$11.class
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> C:\Users\David Pereira\Desktop\TF\observatory\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$6.class
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> C:\Users\David Pereira\Desktop\TF\observatory\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$7.class
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> C:\Users\David Pereira\Desktop\TF\observatory\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$8.class
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> C:\Users\David Pereira\Desktop\TF\observatory\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$9.class
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> C:\Users\David Pereira\Desktop\TF\observatory\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$apply$7.class
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> C:\Users\David Pereira\Desktop\TF\observatory\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$apply$8.class
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> C:\Users\David Pereira\Desktop\TF\observatory\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$postSubmission$1$1.class
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> C:\Users\David Pereira\Desktop\TF\observatory\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$reportCourseraResponse$1$1.class
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> C:\Users\David Pereira\Desktop\TF\observatory\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$reportCourseraResponse$1$2.class
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> C:\Users\David Pereira\Desktop\TF\observatory\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$reportCourseraResponse$1$3.class
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> C:\Users\David Pereira\Desktop\TF\observatory\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$reportCourseraResponse$1$4.class
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> C:\Users\David Pereira\Desktop\TF\observatory\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6.class
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> C:\Users\David Pereira\Desktop\TF\observatory\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5.class
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> C:\Users\David Pereira\Desktop\TF\observatory\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$submitSetting$1.class
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> C:\Users\David Pereira\Desktop\TF\observatory\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike.class
+C:\Users\David Pereira\Desktop\TF\observatory\project\StyleChecker.scala -> C:\Users\David Pereira\Desktop\TF\observatory\project\target\scala-2.10\sbt-0.13\classes\StyleChecker$.class
+C:\Users\David Pereira\Desktop\TF\observatory\project\StyleChecker.scala -> C:\Users\David Pereira\Desktop\TF\observatory\project\target\scala-2.10\sbt-0.13\classes\StyleChecker$CustomTextOutput.class
+C:\Users\David Pereira\Desktop\TF\observatory\project\StyleChecker.scala -> C:\Users\David Pereira\Desktop\TF\observatory\project\target\scala-2.10\sbt-0.13\classes\StyleChecker.class
+binary dependencies:
+42 items
+C:\Users\David Pereira\Desktop\TF\observatory\project\CommonBuild.scala -> C:\Program Files\Java\jdk1.8.0_151\jre\lib\rt.jar
+C:\Users\David Pereira\Desktop\TF\observatory\project\CommonBuild.scala -> C:\Users\David Pereira\.ivy2\cache\org.scala-sbt\ivy\jars\ivy-0.13.9.jar
+C:\Users\David Pereira\Desktop\TF\observatory\project\CommonBuild.scala -> C:\Users\David Pereira\.ivy2\cache\org.scala-sbt\main-settings\jars\main-settings-0.13.9.jar
+C:\Users\David Pereira\Desktop\TF\observatory\project\CommonBuild.scala -> C:\Users\David Pereira\.ivy2\cache\org.scala-sbt\main\jars\main-0.13.9.jar
+C:\Users\David Pereira\Desktop\TF\observatory\project\CommonBuild.scala -> C:\Users\David Pereira\.ivy2\cache\org.scala-sbt\sbt\jars\sbt-0.13.9.jar
+C:\Users\David Pereira\Desktop\TF\observatory\project\CommonBuild.scala -> C:\Users\David Pereira\.sbt\boot\scala-2.10.5\lib\scala-library.jar
+C:\Users\David Pereira\Desktop\TF\observatory\project\Courses.scala -> C:\Program Files\Java\jdk1.8.0_151\jre\lib\rt.jar
+C:\Users\David Pereira\Desktop\TF\observatory\project\Courses.scala -> C:\Users\David Pereira\.sbt\boot\scala-2.10.5\lib\scala-library.jar
+C:\Users\David Pereira\Desktop\TF\observatory\project\GradingFeedback.scala -> C:\Program Files\Java\jdk1.8.0_151\jre\lib\rt.jar
+C:\Users\David Pereira\Desktop\TF\observatory\project\GradingFeedback.scala -> C:\Users\David Pereira\.ivy2\cache\org.scala-sbt\logging\jars\logging-0.13.9.jar
+C:\Users\David Pereira\Desktop\TF\observatory\project\GradingFeedback.scala -> C:\Users\David Pereira\.sbt\boot\scala-2.10.5\lib\scala-library.jar
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> C:\Program Files\Java\jdk1.8.0_151\jre\lib\rt.jar
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> C:\Users\David Pereira\.ivy2\cache\org.scala-lang.modules\scala-pickling_2.10\jars\scala-pickling_2.10-0.10.0.jar
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> C:\Users\David Pereira\.ivy2\cache\org.scala-sbt\collections\jars\collections-0.13.9.jar
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> C:\Users\David Pereira\.ivy2\cache\org.scala-sbt\io\jars\io-0.13.9.jar
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> C:\Users\David Pereira\.ivy2\cache\org.scala-sbt\main\jars\main-0.13.9.jar
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> C:\Users\David Pereira\.ivy2\cache\org.scala-sbt\sbt\jars\sbt-0.13.9.jar
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> C:\Users\David Pereira\.sbt\boot\scala-2.10.5\lib\scala-library.jar
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> C:\Users\David Pereira\.sbt\boot\scala-2.10.5\lib\scala-reflect.jar
+C:\Users\David Pereira\Desktop\TF\observatory\project\Settings.scala -> C:\Program Files\Java\jdk1.8.0_151\jre\lib\rt.jar
+C:\Users\David Pereira\Desktop\TF\observatory\project\Settings.scala -> C:\Users\David Pereira\.sbt\boot\scala-2.10.5\lib\scala-library.jar
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> C:\Program Files\Java\jdk1.8.0_151\jre\lib\rt.jar
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> C:\Users\David Pereira\.ivy2\cache\commons-codec\commons-codec\jars\commons-codec-1.10.jar
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> C:\Users\David Pereira\.ivy2\cache\org.scala-sbt\apply-macro\jars\apply-macro-0.13.9.jar
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> C:\Users\David Pereira\.ivy2\cache\org.scala-sbt\collections\jars\collections-0.13.9.jar
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> C:\Users\David Pereira\.ivy2\cache\org.scala-sbt\incremental-compiler\jars\incremental-compiler-0.13.9.jar
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> C:\Users\David Pereira\.ivy2\cache\org.scala-sbt\io\jars\io-0.13.9.jar
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> C:\Users\David Pereira\.ivy2\cache\org.scala-sbt\ivy\jars\ivy-0.13.9.jar
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> C:\Users\David Pereira\.ivy2\cache\org.scala-sbt\logging\jars\logging-0.13.9.jar
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> C:\Users\David Pereira\.ivy2\cache\org.scala-sbt\main-settings\jars\main-settings-0.13.9.jar
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> C:\Users\David Pereira\.ivy2\cache\org.scala-sbt\main\jars\main-0.13.9.jar
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> C:\Users\David Pereira\.ivy2\cache\org.scala-sbt\sbt\jars\sbt-0.13.9.jar
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> C:\Users\David Pereira\.ivy2\cache\org.scala-sbt\task-system\jars\task-system-0.13.9.jar
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> C:\Users\David Pereira\.ivy2\cache\org.scalaj\scalaj-http_2.10\jars\scalaj-http_2.10-2.2.1.jar
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> C:\Users\David Pereira\.sbt\boot\scala-2.10.5\lib\scala-compiler.jar
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> C:\Users\David Pereira\.sbt\boot\scala-2.10.5\lib\scala-library.jar
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> C:\Users\David Pereira\.sbt\boot\scala-2.10.5\lib\scala-reflect.jar
+C:\Users\David Pereira\Desktop\TF\observatory\project\StyleChecker.scala -> C:\Program Files\Java\jdk1.8.0_151\jre\lib\rt.jar
+C:\Users\David Pereira\Desktop\TF\observatory\project\StyleChecker.scala -> C:\Users\David Pereira\.ivy2\cache\com.typesafe\config\bundles\config-1.2.0.jar
+C:\Users\David Pereira\Desktop\TF\observatory\project\StyleChecker.scala -> C:\Users\David Pereira\.ivy2\cache\org.scala-sbt\sbt\jars\sbt-0.13.9.jar
+C:\Users\David Pereira\Desktop\TF\observatory\project\StyleChecker.scala -> C:\Users\David Pereira\.ivy2\cache\org.scalastyle\scalastyle_2.10\jars\scalastyle_2.10-0.8.0.jar
+C:\Users\David Pereira\Desktop\TF\observatory\project\StyleChecker.scala -> C:\Users\David Pereira\.sbt\boot\scala-2.10.5\lib\scala-library.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+6 items
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> C:\Users\David Pereira\Desktop\TF\observatory\project\GradingFeedback.scala
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> C:\Users\David Pereira\Desktop\TF\observatory\project\Settings.scala
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuild.scala -> C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> C:\Users\David Pereira\Desktop\TF\observatory\project\CommonBuild.scala
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> C:\Users\David Pereira\Desktop\TF\observatory\project\Settings.scala
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> C:\Users\David Pereira\Desktop\TF\observatory\project\StyleChecker.scala
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+2 items
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuild.scala -> C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> C:\Users\David Pereira\Desktop\TF\observatory\project\CommonBuild.scala
+inheritance external dependencies:
+0 items
+class names:
+89 items
+C:\Users\David Pereira\Desktop\TF\observatory\project\CommonBuild.scala -> CommonBuild
+C:\Users\David Pereira\Desktop\TF\observatory\project\CommonBuild.scala -> CommonBuild$class
+C:\Users\David Pereira\Desktop\TF\observatory\project\Courses.scala -> Assignment
+C:\Users\David Pereira\Desktop\TF\observatory\project\Courses.scala -> Assignment$
+C:\Users\David Pereira\Desktop\TF\observatory\project\Courses.scala -> CourseraId
+C:\Users\David Pereira\Desktop\TF\observatory\project\Courses.scala -> CourseraId$
+C:\Users\David Pereira\Desktop\TF\observatory\project\Courses.scala -> Courses
+C:\Users\David Pereira\Desktop\TF\observatory\project\Courses.scala -> Courses$
+C:\Users\David Pereira\Desktop\TF\observatory\project\Courses.scala -> StyleCheck
+C:\Users\David Pereira\Desktop\TF\observatory\project\Courses.scala -> StyleCheck$
+C:\Users\David Pereira\Desktop\TF\observatory\project\GradingFeedback.scala -> GradingFeedback
+C:\Users\David Pereira\Desktop\TF\observatory\project\GradingFeedback.scala -> RecordingLogger
+C:\Users\David Pereira\Desktop\TF\observatory\project\GradingFeedback.scala -> RecordingLogger$
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> GradingSummary
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> GradingSummary$
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> ScalaTestRunner
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> ScalaTestRunner$
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> ScalaTestRunner$$anon$2
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> ScalaTestRunner$$anonfun$1
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> ScalaTestRunner$$anonfun$10
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> ScalaTestRunner$$anonfun$11
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> ScalaTestRunner$$anonfun$12
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> ScalaTestRunner$$anonfun$13
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> ScalaTestRunner$$anonfun$14
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> ScalaTestRunner$$anonfun$2
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> ScalaTestRunner$$anonfun$3
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> ScalaTestRunner$$anonfun$4
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> ScalaTestRunner$$anonfun$5
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> ScalaTestRunner$$anonfun$6
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> ScalaTestRunner$$anonfun$7
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> ScalaTestRunner$$anonfun$8
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> ScalaTestRunner$$anonfun$9
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> ScalaTestRunner$$anonfun$invokeScalaTestInSeparateProcess$1
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> ScalaTestRunner$$anonfun$invokeScalaTestInSeparateProcess$2
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> ScalaTestRunner$GradingSummaryUnpickler1$2$
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> ScalaTestRunner$GradingSummaryUnpickler1$2$$anon$1
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> ScalaTestRunner$GradingSummaryUnpickler1$2$$anon$1$$typecreator1$1
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> ScalaTestRunner$LimitedStringBuffer
+C:\Users\David Pereira\Desktop\TF\observatory\project\Settings.scala -> Settings
+C:\Users\David Pereira\Desktop\TF\observatory\project\Settings.scala -> Settings$
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuild.scala -> StudentBuild
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuild.scala -> StudentBuild$
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> AssignmentInfo
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> AssignmentInfo$
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> MapMapString
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> MapMapString$
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> StudentBuildLike
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> StudentBuildLike$$anonfun$1
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> StudentBuildLike$$anonfun$1$$anonfun$2
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> StudentBuildLike$$anonfun$1$$anonfun$3
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> StudentBuildLike$$anonfun$1$$anonfun$4
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> StudentBuildLike$$anonfun$1$$anonfun$4$$anonfun$apply$1
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> StudentBuildLike$$anonfun$12
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> StudentBuildLike$$anonfun$12$$anonfun$apply$10
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> StudentBuildLike$$anonfun$12$$anonfun$apply$9
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> StudentBuildLike$$anonfun$5
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> StudentBuildLike$$anonfun$prepareJar$1
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> StudentBuildLike$$anonfun$prepareJar$2
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> StudentBuildLike$$anonfun$prepareJar$3
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> StudentBuildLike$$anonfun$prepareJar$4
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> StudentBuildLike$$anonfun$root$1
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> StudentBuildLike$$anonfun$root$2
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> StudentBuildLike$$anonfun$root$3
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> StudentBuildLike$$anonfun$root$4
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> StudentBuildLike$$anonfun$root$5
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> StudentBuildLike$$anonfun$root$6
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> StudentBuildLike$$anonfun$submitLocalSetting$1
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> StudentBuildLike$$anonfun$submitLocalSetting$1$$anonfun$apply$2
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> StudentBuildLike$$anonfun$submitLocalSetting$1$$anonfun$apply$2$$anonfun$apply$3
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> StudentBuildLike$$anonfun$submitLocalSetting$1$$anonfun$apply$2$$anonfun$apply$3$$anonfun$apply$4
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> StudentBuildLike$$anonfun$submitSetting$1
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$10
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$11
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$6
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$7
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$8
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$9
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$apply$7
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$apply$8
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$postSubmission$1$1
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$reportCourseraResponse$1$1
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$reportCourseraResponse$1$2
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$reportCourseraResponse$1$3
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$reportCourseraResponse$1$4
+C:\Users\David Pereira\Desktop\TF\observatory\project\StyleChecker.scala -> StyleChecker
+C:\Users\David Pereira\Desktop\TF\observatory\project\StyleChecker.scala -> StyleChecker$
+C:\Users\David Pereira\Desktop\TF\observatory\project\StyleChecker.scala -> StyleChecker$CustomTextOutput
+used names:
+804 items
+C:\Users\David Pereira\Desktop\TF\observatory\project\CommonBuild.scala -> %
+C:\Users\David Pereira\Desktop\TF\observatory\project\CommonBuild.scala -> %%
+C:\Users\David Pereira\Desktop\TF\observatory\project\CommonBuild.scala -> Build
+C:\Users\David Pereira\Desktop\TF\observatory\project\CommonBuild.scala -> CommonBuild
+C:\Users\David Pereira\Desktop\TF\observatory\project\CommonBuild.scala -> ManifestFactory
+C:\Users\David Pereira\Desktop\TF\observatory\project\CommonBuild.scala -> Predef
+C:\Users\David Pereira\Desktop\TF\observatory\project\CommonBuild.scala -> Seq
+C:\Users\David Pereira\Desktop\TF\observatory\project\CommonBuild.scala -> SettingKey
+C:\Users\David Pereira\Desktop\TF\observatory\project\CommonBuild.scala -> String
+C:\Users\David Pereira\Desktop\TF\observatory\project\CommonBuild.scala -> apply
+C:\Users\David Pereira\Desktop\TF\observatory\project\CommonBuild.scala -> assignment
+C:\Users\David Pereira\Desktop\TF\observatory\project\CommonBuild.scala -> classType
+C:\Users\David Pereira\Desktop\TF\observatory\project\CommonBuild.scala -> commonSourcePackages
+C:\Users\David Pereira\Desktop\TF\observatory\project\CommonBuild.scala -> course
+C:\Users\David Pereira\Desktop\TF\observatory\project\CommonBuild.scala -> courseId
+C:\Users\David Pereira\Desktop\TF\observatory\project\CommonBuild.scala -> package
+C:\Users\David Pereira\Desktop\TF\observatory\project\CommonBuild.scala -> reflect
+C:\Users\David Pereira\Desktop\TF\observatory\project\CommonBuild.scala -> sbt
+C:\Users\David Pereira\Desktop\TF\observatory\project\CommonBuild.scala -> scala
+C:\Users\David Pereira\Desktop\TF\observatory\project\CommonBuild.scala -> toGroupID
+C:\Users\David Pereira\Desktop\TF\observatory\project\Courses.scala -> &&
+C:\Users\David Pereira\Desktop\TF\observatory\project\Courses.scala -> ->
+C:\Users\David Pereira\Desktop\TF\observatory\project\Courses.scala -> ::
+C:\Users\David Pereira\Desktop\TF\observatory\project\Courses.scala -> <init>
+C:\Users\David Pereira\Desktop\TF\observatory\project\Courses.scala -> ==
+C:\Users\David Pereira\Desktop\TF\observatory\project\Courses.scala -> AbstractFunction2
+C:\Users\David Pereira\Desktop\TF\observatory\project\Courses.scala -> AbstractFunction4
+C:\Users\David Pereira\Desktop\TF\observatory\project\Courses.scala -> AbstractFunction5
+C:\Users\David Pereira\Desktop\TF\observatory\project\Courses.scala -> AnyRef
+C:\Users\David Pereira\Desktop\TF\observatory\project\Courses.scala -> Assignment
+C:\Users\David Pereira\Desktop\TF\observatory\project\Courses.scala -> Assignments
+C:\Users\David Pereira\Desktop\TF\observatory\project\Courses.scala -> CourseraId
+C:\Users\David Pereira\Desktop\TF\observatory\project\Courses.scala -> Courses
+C:\Users\David Pereira\Desktop\TF\observatory\project\Courses.scala -> Double
+C:\Users\David Pereira\Desktop\TF\observatory\project\Courses.scala -> List
+C:\Users\David Pereira\Desktop\TF\observatory\project\Courses.scala -> Map
+C:\Users\David Pereira\Desktop\TF\observatory\project\Courses.scala -> Nil
+C:\Users\David Pereira\Desktop\TF\observatory\project\Courses.scala -> None
+C:\Users\David Pereira\Desktop\TF\observatory\project\Courses.scala -> Option
+C:\Users\David Pereira\Desktop\TF\observatory\project\Courses.scala -> Predef
+C:\Users\David Pereira\Desktop\TF\observatory\project\Courses.scala -> Product
+C:\Users\David Pereira\Desktop\TF\observatory\project\Courses.scala -> ScalaRunTime
+C:\Users\David Pereira\Desktop\TF\observatory\project\Courses.scala -> Serializable
+C:\Users\David Pereira\Desktop\TF\observatory\project\Courses.scala -> Statics
+C:\Users\David Pereira\Desktop\TF\observatory\project\Courses.scala -> String
+C:\Users\David Pereira\Desktop\TF\observatory\project\Courses.scala -> StyleCheck
+C:\Users\David Pereira\Desktop\TF\observatory\project\Courses.scala -> _hashCode
+C:\Users\David Pereira\Desktop\TF\observatory\project\Courses.scala -> _toString
+C:\Users\David Pereira\Desktop\TF\observatory\project\Courses.scala -> all
+C:\Users\David Pereira\Desktop\TF\observatory\project\Courses.scala -> any2ArrowAssoc
+C:\Users\David Pereira\Desktop\TF\observatory\project\Courses.scala -> anyHash
+C:\Users\David Pereira\Desktop\TF\observatory\project\Courses.scala -> apply
+C:\Users\David Pereira\Desktop\TF\observatory\project\Courses.scala -> asInstanceOf
+C:\Users\David Pereira\Desktop\TF\observatory\project\Courses.scala -> courseraId
+C:\Users\David Pereira\Desktop\TF\observatory\project\Courses.scala -> doubleHash
+C:\Users\David Pereira\Desktop\TF\observatory\project\Courses.scala -> empty
+C:\Users\David Pereira\Desktop\TF\observatory\project\Courses.scala -> eq
+C:\Users\David Pereira\Desktop\TF\observatory\project\Courses.scala -> finalizeHash
+C:\Users\David Pereira\Desktop\TF\observatory\project\Courses.scala -> immutable
+C:\Users\David Pereira\Desktop\TF\observatory\project\Courses.scala -> isInstanceOf
+C:\Users\David Pereira\Desktop\TF\observatory\project\Courses.scala -> itemId
+C:\Users\David Pereira\Desktop\TF\observatory\project\Courses.scala -> key
+C:\Users\David Pereira\Desktop\TF\observatory\project\Courses.scala -> maxScore
+C:\Users\David Pereira\Desktop\TF\observatory\project\Courses.scala -> mix
+C:\Users\David Pereira\Desktop\TF\observatory\project\Courses.scala -> options
+C:\Users\David Pereira\Desktop\TF\observatory\project\Courses.scala -> package
+C:\Users\David Pereira\Desktop\TF\observatory\project\Courses.scala -> packageName
+C:\Users\David Pereira\Desktop\TF\observatory\project\Courses.scala -> partId
+C:\Users\David Pereira\Desktop\TF\observatory\project\Courses.scala -> premiumItemId
+C:\Users\David Pereira\Desktop\TF\observatory\project\Courses.scala -> runtime
+C:\Users\David Pereira\Desktop\TF\observatory\project\Courses.scala -> sbt
+C:\Users\David Pereira\Desktop\TF\observatory\project\Courses.scala -> scala
+C:\Users\David Pereira\Desktop\TF\observatory\project\Courses.scala -> scoreRatio
+C:\Users\David Pereira\Desktop\TF\observatory\project\Courses.scala -> styleCheck
+C:\Users\David Pereira\Desktop\TF\observatory\project\Courses.scala -> styleSheet
+C:\Users\David Pereira\Desktop\TF\observatory\project\Courses.scala -> styleSheetPath
+C:\Users\David Pereira\Desktop\TF\observatory\project\Courses.scala -> toString
+C:\Users\David Pereira\Desktop\TF\observatory\project\Courses.scala -> typedProductIterator
+C:\Users\David Pereira\Desktop\TF\observatory\project\Courses.scala -> x$10
+C:\Users\David Pereira\Desktop\TF\observatory\project\Courses.scala -> x$11
+C:\Users\David Pereira\Desktop\TF\observatory\project\Courses.scala -> x$12
+C:\Users\David Pereira\Desktop\TF\observatory\project\Courses.scala -> x$13
+C:\Users\David Pereira\Desktop\TF\observatory\project\Courses.scala -> x$14
+C:\Users\David Pereira\Desktop\TF\observatory\project\Courses.scala -> x$15
+C:\Users\David Pereira\Desktop\TF\observatory\project\Courses.scala -> x$16
+C:\Users\David Pereira\Desktop\TF\observatory\project\Courses.scala -> x$17
+C:\Users\David Pereira\Desktop\TF\observatory\project\Courses.scala -> x$18
+C:\Users\David Pereira\Desktop\TF\observatory\project\Courses.scala -> x$19
+C:\Users\David Pereira\Desktop\TF\observatory\project\Courses.scala -> x$20
+C:\Users\David Pereira\Desktop\TF\observatory\project\Courses.scala -> x$21
+C:\Users\David Pereira\Desktop\TF\observatory\project\Courses.scala -> x$22
+C:\Users\David Pereira\Desktop\TF\observatory\project\Courses.scala -> x$23
+C:\Users\David Pereira\Desktop\TF\observatory\project\Courses.scala -> x$24
+C:\Users\David Pereira\Desktop\TF\observatory\project\Courses.scala -> x$25
+C:\Users\David Pereira\Desktop\TF\observatory\project\Courses.scala -> x$26
+C:\Users\David Pereira\Desktop\TF\observatory\project\Courses.scala -> x$27
+C:\Users\David Pereira\Desktop\TF\observatory\project\Courses.scala -> x$28
+C:\Users\David Pereira\Desktop\TF\observatory\project\Courses.scala -> x$9
+C:\Users\David Pereira\Desktop\TF\observatory\project\Courses.scala -> ||
+C:\Users\David Pereira\Desktop\TF\observatory\project\GradingFeedback.scala -> *
+C:\Users\David Pereira\Desktop\TF\observatory\project\GradingFeedback.scala -> +
+C:\Users\David Pereira\Desktop\TF\observatory\project\GradingFeedback.scala -> +=
+C:\Users\David Pereira\Desktop\TF\observatory\project\GradingFeedback.scala -> -
+C:\Users\David Pereira\Desktop\TF\observatory\project\GradingFeedback.scala -> <byname>
+C:\Users\David Pereira\Desktop\TF\observatory\project\GradingFeedback.scala -> <init>
+C:\Users\David Pereira\Desktop\TF\observatory\project\GradingFeedback.scala -> ==
+C:\Users\David Pereira\Desktop\TF\observatory\project\GradingFeedback.scala -> AnyRef
+C:\Users\David Pereira\Desktop\TF\observatory\project\GradingFeedback.scala -> Double
+C:\Users\David Pereira\Desktop\TF\observatory\project\GradingFeedback.scala -> Error
+C:\Users\David Pereira\Desktop\TF\observatory\project\GradingFeedback.scala -> GradingFeedback
+C:\Users\David Pereira\Desktop\TF\observatory\project\GradingFeedback.scala -> Level
+C:\Users\David Pereira\Desktop\TF\observatory\project\GradingFeedback.scala -> ListBuffer
+C:\Users\David Pereira\Desktop\TF\observatory\project\GradingFeedback.scala -> Logger
+C:\Users\David Pereira\Desktop\TF\observatory\project\GradingFeedback.scala -> Predef
+C:\Users\David Pereira\Desktop\TF\observatory\project\GradingFeedback.scala -> RecordingLogger
+C:\Users\David Pereira\Desktop\TF\observatory\project\GradingFeedback.scala -> String
+C:\Users\David Pereira\Desktop\TF\observatory\project\GradingFeedback.scala -> StringContext
+C:\Users\David Pereira\Desktop\TF\observatory\project\GradingFeedback.scala -> Throwable
+C:\Users\David Pereira\Desktop\TF\observatory\project\GradingFeedback.scala -> Unit
+C:\Users\David Pereira\Desktop\TF\observatory\project\GradingFeedback.scala -> Value
+C:\Users\David Pereira\Desktop\TF\observatory\project\GradingFeedback.scala -> _root_
+C:\Users\David Pereira\Desktop\TF\observatory\project\GradingFeedback.scala -> addDetails
+C:\Users\David Pereira\Desktop\TF\observatory\project\GradingFeedback.scala -> addSummary
+C:\Users\David Pereira\Desktop\TF\observatory\project\GradingFeedback.scala -> allTestsPassedMessage
+C:\Users\David Pereira\Desktop\TF\observatory\project\GradingFeedback.scala -> apply
+C:\Users\David Pereira\Desktop\TF\observatory\project\GradingFeedback.scala -> augmentString
+C:\Users\David Pereira\Desktop\TF\observatory\project\GradingFeedback.scala -> buffer
+C:\Users\David Pereira\Desktop\TF\observatory\project\GradingFeedback.scala -> clear
+C:\Users\David Pereira\Desktop\TF\observatory\project\GradingFeedback.scala -> collection
+C:\Users\David Pereira\Desktop\TF\observatory\project\GradingFeedback.scala -> compileFailedMessage
+C:\Users\David Pereira\Desktop\TF\observatory\project\GradingFeedback.scala -> failed
+C:\Users\David Pereira\Desktop\TF\observatory\project\GradingFeedback.scala -> failed_=
+C:\Users\David Pereira\Desktop\TF\observatory\project\GradingFeedback.scala -> feedbackDetails
+C:\Users\David Pereira\Desktop\TF\observatory\project\GradingFeedback.scala -> feedbackSummary
+C:\Users\David Pereira\Desktop\TF\observatory\project\GradingFeedback.scala -> format
+C:\Users\David Pereira\Desktop\TF\observatory\project\GradingFeedback.scala -> level
+C:\Users\David Pereira\Desktop\TF\observatory\project\GradingFeedback.scala -> log
+C:\Users\David Pereira\Desktop\TF\observatory\project\GradingFeedback.scala -> maxScore
+C:\Users\David Pereira\Desktop\TF\observatory\project\GradingFeedback.scala -> maxScore_=
+C:\Users\David Pereira\Desktop\TF\observatory\project\GradingFeedback.scala -> maxStyleScore
+C:\Users\David Pereira\Desktop\TF\observatory\project\GradingFeedback.scala -> maxTestScore
+C:\Users\David Pereira\Desktop\TF\observatory\project\GradingFeedback.scala -> message
+C:\Users\David Pereira\Desktop\TF\observatory\project\GradingFeedback.scala -> mkString
+C:\Users\David Pereira\Desktop\TF\observatory\project\GradingFeedback.scala -> msg
+C:\Users\David Pereira\Desktop\TF\observatory\project\GradingFeedback.scala -> mutable
+C:\Users\David Pereira\Desktop\TF\observatory\project\GradingFeedback.scala -> newMaxScore
+C:\Users\David Pereira\Desktop\TF\observatory\project\GradingFeedback.scala -> newStyleScoreRatio
+C:\Users\David Pereira\Desktop\TF\observatory\project\GradingFeedback.scala -> nonEmpty
+C:\Users\David Pereira\Desktop\TF\observatory\project\GradingFeedback.scala -> package
+C:\Users\David Pereira\Desktop\TF\observatory\project\GradingFeedback.scala -> perfectStyleMessage
+C:\Users\David Pereira\Desktop\TF\observatory\project\GradingFeedback.scala -> res
+C:\Users\David Pereira\Desktop\TF\observatory\project\GradingFeedback.scala -> s
+C:\Users\David Pereira\Desktop\TF\observatory\project\GradingFeedback.scala -> sbt
+C:\Users\David Pereira\Desktop\TF\observatory\project\GradingFeedback.scala -> scala
+C:\Users\David Pereira\Desktop\TF\observatory\project\GradingFeedback.scala -> score
+C:\Users\David Pereira\Desktop\TF\observatory\project\GradingFeedback.scala -> stripMargin
+C:\Users\David Pereira\Desktop\TF\observatory\project\GradingFeedback.scala -> styleProblemsMessage
+C:\Users\David Pereira\Desktop\TF\observatory\project\GradingFeedback.scala -> styleScoreRatio
+C:\Users\David Pereira\Desktop\TF\observatory\project\GradingFeedback.scala -> styleScoreRatio_=
+C:\Users\David Pereira\Desktop\TF\observatory\project\GradingFeedback.scala -> testCompileFailedMessage
+C:\Users\David Pereira\Desktop\TF\observatory\project\GradingFeedback.scala -> testExecutionFailedMessage
+C:\Users\David Pereira\Desktop\TF\observatory\project\GradingFeedback.scala -> testsFailedMessage
+C:\Users\David Pereira\Desktop\TF\observatory\project\GradingFeedback.scala -> totalGradeMessage
+C:\Users\David Pereira\Desktop\TF\observatory\project\GradingFeedback.scala -> totalScore
+C:\Users\David Pereira\Desktop\TF\observatory\project\GradingFeedback.scala -> unpackFailedMessage
+C:\Users\David Pereira\Desktop\TF\observatory\project\GradingFeedback.scala -> vStyleScore
+C:\Users\David Pereira\Desktop\TF\observatory\project\GradingFeedback.scala -> vStyleScore_=
+C:\Users\David Pereira\Desktop\TF\observatory\project\GradingFeedback.scala -> vTestScore
+C:\Users\David Pereira\Desktop\TF\observatory\project\GradingFeedback.scala -> vTestScore_=
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> !=
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> $anon
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> $m
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> $m$untyped
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> $typecreator1
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> $u
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> &&
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> *
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> +
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> /
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> ::
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> <
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> <init>
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> ==
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> >
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> AbstractFunction3
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> Any
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> AnyRef
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> Callable
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> Classpath
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> Codec
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> Defaults
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> Executors
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> FastTypeTag
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> File
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> Function1
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> Future
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> GRL
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> Generated
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> GradingFeedback
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> GradingSummary
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> GradingSummaryUnpickler1
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> IO
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> Int
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> Keys
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> LimitedStringBuffer
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> List
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> ListBuffer
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> Map
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> Mirror
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> Nil
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> None
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> Nothing
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> Null
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> PReader
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> PickleOps
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> Predef
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> Process
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> ProcessLogger
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> Product
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> Ref
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> ScalaRunTime
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> ScalaTestRunner
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> Seq
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> Serializable
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> Settings
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> Singleton
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> Source
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> Statics
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> String
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> StringContext
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> SysProc
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> Throwable
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> TimeoutException
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> Type
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> TypeCreator
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> TypeTag
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> U
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> Unit
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> Universe
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> Unpickler
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> _1
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> _2
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> _3
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> _4
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> _root_
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> _toString
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> allTestsPassed
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> anyHash
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> append
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> apply
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> asInstanceOf
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> asType
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> augmentString
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> beginEntry
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> buf
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> cachedMirror
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> cachedMirror_=
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> canBuildFrom
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> cancel
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> classpath
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> classpathString
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> cmd
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> collection
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> computeSummary
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> concurrent
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> currentMirror
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> data
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> delete
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> destroy
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> e
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> endEntry
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> eq
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> executor
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> existentials
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> exitValue
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> fallbackSystemCodec
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> feedback
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> file
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> finalizeHash
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> forkProcess
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> fromFile
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> future
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> genUnpickler
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> get
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> getAbsolutePath
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> getClassLoader
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> getLines
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> getOrElse
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> gradeOptions
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> gradingReporter
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> hintStaticallyElidedType
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> hintTag
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> immutable
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> implicitly
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> individualTestTimeout
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> instragentPath
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> intPickler
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> internal
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> invokeScalaTestInSeparateProcess
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> io
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> ir
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> isEmpty
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> isInstanceOf
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> java
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> json
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> jsonPickleToUnpickleOps
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> key
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> language
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> length
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> lengthCropped
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> lengthCropped_=
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> lines
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> lines_=
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> lock
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> logError
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> map
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> materializeWeakTypeTag
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> maxOutputLineLength
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> maxOutputLines
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> maxScore
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> maxTestScore
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> memory
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> mix
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> mkString
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> msg
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> mutable
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> name
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> ne
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> newSingleThreadExecutor
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> options
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> out
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> outFilePath
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> outfile
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> package
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> pickleFormat
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> pickling
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> prepend
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> println
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> proc
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> process
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> prop
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> readField
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> reader
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> reader1
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> reader2
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> reader3
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> refUnpickler
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> reflect
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> refs
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> replace
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> resourceFiles
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> resourceFilesString
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> result
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> run
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> runLog
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> runPathString
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> runScalaTest
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> runtime
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> runtimeMirror
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> s
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> sbt
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> scala
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> scalaTestCommand
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> scalaTestDefaultWeight
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> scalaTestDefaultWeightProperty
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> scalaTestIndividualTestTimeoutProperty
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> scalaTestReadableFilesProperty
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> scalaTestReportFileProperty
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> scalaTestReporter
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> scalaTestTimeout
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> scaledScore
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> score
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> shortS
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> shutdown
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> staticClass
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> stringPickler
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> stripMargin
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> submit
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> substring
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> summary
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> summaryCmd
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> summaryFilePath
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> summaryFileStr
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> summaryProc
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> sys
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> tag
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> tagKey
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> testClasses
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> testEnv
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> testExecutionDebugLog
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> testExecutionFailed
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> testRunPath
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> testsFailed
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> timeout
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> timeoutPerTest
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> to
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> toInt
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> toLong
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> toString
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> toTypeConstructor
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> tpe
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> trim
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> typeString
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> typedProductIterator
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> unary_!
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> unchecked
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> universe
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> unlock
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> unpickle
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> unpickleSummary
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> unpickler$unpickle$1
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> unpickler$unpickle$2
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> unpickler$unpickle$3
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> util
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> value
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> weakTypeOf
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> xms
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> xmx
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> ||
+C:\Users\David Pereira\Desktop\TF\observatory\project\Settings.scala -> *
+C:\Users\David Pereira\Desktop\TF\observatory\project\Settings.scala -> <init>
+C:\Users\David Pereira\Desktop\TF\observatory\project\Settings.scala -> AnyRef
+C:\Users\David Pereira\Desktop\TF\observatory\project\Settings.scala -> Settings
+C:\Users\David Pereira\Desktop\TF\observatory\project\Settings.scala -> individualTestTimeout
+C:\Users\David Pereira\Desktop\TF\observatory\project\Settings.scala -> maxOutputLineLength
+C:\Users\David Pereira\Desktop\TF\observatory\project\Settings.scala -> maxOutputLines
+C:\Users\David Pereira\Desktop\TF\observatory\project\Settings.scala -> maxSubmitFileSize
+C:\Users\David Pereira\Desktop\TF\observatory\project\Settings.scala -> mb
+C:\Users\David Pereira\Desktop\TF\observatory\project\Settings.scala -> scala
+C:\Users\David Pereira\Desktop\TF\observatory\project\Settings.scala -> scalaTestDefaultWeight
+C:\Users\David Pereira\Desktop\TF\observatory\project\Settings.scala -> scalaTestDefaultWeightProperty
+C:\Users\David Pereira\Desktop\TF\observatory\project\Settings.scala -> scalaTestIndividualTestTimeoutProperty
+C:\Users\David Pereira\Desktop\TF\observatory\project\Settings.scala -> scalaTestReadableFilesProperty
+C:\Users\David Pereira\Desktop\TF\observatory\project\Settings.scala -> scalaTestReportFileProperty
+C:\Users\David Pereira\Desktop\TF\observatory\project\Settings.scala -> scalaTestReporter
+C:\Users\David Pereira\Desktop\TF\observatory\project\Settings.scala -> scalaTestTimeout
+C:\Users\David Pereira\Desktop\TF\observatory\project\Settings.scala -> testResultsFileName
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuild.scala -> <init>
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuild.scala -> StudentBuild
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuild.scala -> StudentBuildLike
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> !=
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> $p1
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> $p2
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> $p3
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> $p4
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> $p5
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> &&
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> +
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> +=
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> ---
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> /
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> ::
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> :=
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> <init>
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> ==
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> >
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> AList
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> AbstractFunction1
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> AbstractFunction5
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> Any
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> Append
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> Array
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> AssignmentInfo
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> Base64
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> Byte
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> Codec
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> CommonBuild
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> Compile
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> ConfigKey
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> Def
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> Defaults
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> Failure
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> File
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> FileInputStream
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> FullInstance
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> Function1
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> Http
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> HttpOptions
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> HttpResponse
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> IOException
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> InitializeInstance
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> InputKey
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> InputTask
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> InputWrapper
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> JSON
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> Keys
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> List
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> ManifestFactory
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> Map
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> MapMapString
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> Nil
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> None
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> Nothing
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> Option
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> ParserInput
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> ParserInstance
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> Path
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> Predef
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> Product
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> Project
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> ScalaRunTime
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> Scoped
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> Seq
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> Serializable
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> SettingKey
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> Settings
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> String
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> StringContext
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> StudentBuildLike
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> StyleChecker
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> Success
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> TaskInstance
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> TaskKey
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> TaskStreams
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> Test
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> Try
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> Unit
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> _1
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> _2
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> _3
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> _4
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> _5
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> _6
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> _hashCode
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> _root_
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> _toString
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> allFiles
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> alternative
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> apache
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> app
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> append1
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> appendSeq
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> apply
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> args
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> asInstanceOf
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> asString
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> assess
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> assignment
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> assignmentDetails
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> assignmentInfo
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> assignmentKey
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> assignmentName
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> augmentString
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> base
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> base64Jar
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> baseDirectory
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> binary
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> body
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> bytes
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> canBuildFrom
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> classType
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> close
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> code
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> codec
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> collection
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> commonSourcePackages
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> commonSourcePaths
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> commons
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> compile
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> configurationToKey
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> connTimeout
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> connectMsg
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> course
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> courseName
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> data
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> e
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> email
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> encodeBase64
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> eq
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> errPrefix
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> error
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> ex
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> exception
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> exists
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> f
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> failSubmit
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> failedConnectMsg
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> failedSubmitMsg
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> fallbackSystemCodec
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> feedback
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> file
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> fileLength
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> filesToFinder
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> filter
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> flat
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> fold
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> getAbsolutePath
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> getPath
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> headers
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> hs
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> http
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> id
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> immutable
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> in
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> inConfig
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> info
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> inputErr
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> inputKey
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> io
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> is
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> is2xx
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> is4xx
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> is5xx
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> isInstanceOf
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> itemId
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> jar
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> java
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> json
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> key
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> learnerMsg
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> length
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> libraryDependencies
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> log
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> logger
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> macroValueI
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> macroValueIT
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> make
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> map
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> maxResult
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> maxSubmitFileSize
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> ne
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> nsc
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> option
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> org
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> other
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> package
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> packageSubmission
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> packageSubmissionFiles
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> packageTaskSettings
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> pair
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> parseFull
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> parsed
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> parserToInput
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> parser_☃☃
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> parsing
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> partId
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> path
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> postData
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> postSubmission
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> premiumItemId
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> prepareJar
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> project
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> pure
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> read
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> reflect
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> relativeTo
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> reportCourseraResponse
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> resp
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> respBody
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> response
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> result
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> richFile
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> root
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> runtime
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> s
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> sbt
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> scala
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> scalaSource
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> scalaTestDependency
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> scalaj
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> score
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> sdirs
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> secret
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> set
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> settings
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> singleFileFinder
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> sizeRead
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> sourceFiles
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> sourceMappingsWithoutPackages
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> sources
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> spaceDelimited
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> srcs
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> ss
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> startsWith
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> streams
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> string2path
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> stripMargin
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> styleCheck
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> styleCheckSetting
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> styleSheet
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> submit
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> submitLocal
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> submitLocalSetting
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> submitSetting
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> successfulSubmitMsg
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> sys
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> t6ToTable6
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> toITask
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> toInt
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> toSParser
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> toString
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> tools
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> tuple2
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> tuple5
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> tuple6
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> typedProductIterator
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> unary_!
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> unchecked
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> unmanagedSourceDirectories
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> unmanagedSources
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> util
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> value
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> warn
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> withoutCommonSources
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> wrapInitTask_☃☃
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> wrapInit_☃☃
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> writeAll
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> x
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> |
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> ||
+C:\Users\David Pereira\Desktop\TF\observatory\project\StyleChecker.scala -> +
+C:\Users\David Pereira\Desktop\TF\observatory\project\StyleChecker.scala -> -
+C:\Users\David Pereira\Desktop\TF\observatory\project\StyleChecker.scala -> <init>
+C:\Users\David Pereira\Desktop\TF\observatory\project\StyleChecker.scala -> ==
+C:\Users\David Pereira\Desktop\TF\observatory\project\StyleChecker.scala -> AnyRef
+C:\Users\David Pereira\Desktop\TF\observatory\project\StyleChecker.scala -> ByteArrayOutputStream
+C:\Users\David Pereira\Desktop\TF\observatory\project\StyleChecker.scala -> ConfigFactory
+C:\Users\David Pereira\Desktop\TF\observatory\project\StyleChecker.scala -> CustomTextOutput
+C:\Users\David Pereira\Desktop\TF\observatory\project\StyleChecker.scala -> Directory
+C:\Users\David Pereira\Desktop\TF\observatory\project\StyleChecker.scala -> File
+C:\Users\David Pereira\Desktop\TF\observatory\project\StyleChecker.scala -> FileSpec
+C:\Users\David Pereira\Desktop\TF\observatory\project\StyleChecker.scala -> Int
+C:\Users\David Pereira\Desktop\TF\observatory\project\StyleChecker.scala -> Message
+C:\Users\David Pereira\Desktop\TF\observatory\project\StyleChecker.scala -> MessageHelper
+C:\Users\David Pereira\Desktop\TF\observatory\project\StyleChecker.scala -> None
+C:\Users\David Pereira\Desktop\TF\observatory\project\StyleChecker.scala -> Nothing
+C:\Users\David Pereira\Desktop\TF\observatory\project\StyleChecker.scala -> Option
+C:\Users\David Pereira\Desktop\TF\observatory\project\StyleChecker.scala -> Output
+C:\Users\David Pereira\Desktop\TF\observatory\project\StyleChecker.scala -> OutputResult
+C:\Users\David Pereira\Desktop\TF\observatory\project\StyleChecker.scala -> Predef
+C:\Users\David Pereira\Desktop\TF\observatory\project\StyleChecker.scala -> PrintStream
+C:\Users\David Pereira\Desktop\TF\observatory\project\StyleChecker.scala -> ScalastyleChecker
+C:\Users\David Pereira\Desktop\TF\observatory\project\StyleChecker.scala -> ScalastyleConfiguration
+C:\Users\David Pereira\Desktop\TF\observatory\project\StyleChecker.scala -> Seq
+C:\Users\David Pereira\Desktop\TF\observatory\project\StyleChecker.scala -> String
+C:\Users\David Pereira\Desktop\TF\observatory\project\StyleChecker.scala -> StringContext
+C:\Users\David Pereira\Desktop\TF\observatory\project\StyleChecker.scala -> StyleChecker
+C:\Users\David Pereira\Desktop\TF\observatory\project\StyleChecker.scala -> T
+C:\Users\David Pereira\Desktop\TF\observatory\project\StyleChecker.scala -> Tuple2
+C:\Users\David Pereira\Desktop\TF\observatory\project\StyleChecker.scala -> Unit
+C:\Users\David Pereira\Desktop\TF\observatory\project\StyleChecker.scala -> _root_
+C:\Users\David Pereira\Desktop\TF\observatory\project\StyleChecker.scala -> args
+C:\Users\David Pereira\Desktop\TF\observatory\project\StyleChecker.scala -> asInstanceOf
+C:\Users\David Pereira\Desktop\TF\observatory\project\StyleChecker.scala -> augmentString
+C:\Users\David Pereira\Desktop\TF\observatory\project\StyleChecker.scala -> checkFiles
+C:\Users\David Pereira\Desktop\TF\observatory\project\StyleChecker.scala -> column
+C:\Users\David Pereira\Desktop\TF\observatory\project\StyleChecker.scala -> columnNumber
+C:\Users\David Pereira\Desktop\TF\observatory\project\StyleChecker.scala -> com
+C:\Users\David Pereira\Desktop\TF\observatory\project\StyleChecker.scala -> config
+C:\Users\David Pereira\Desktop\TF\observatory\project\StyleChecker.scala -> configFile
+C:\Users\David Pereira\Desktop\TF\observatory\project\StyleChecker.scala -> customMessage
+C:\Users\David Pereira\Desktop\TF\observatory\project\StyleChecker.scala -> errors
+C:\Users\David Pereira\Desktop\TF\observatory\project\StyleChecker.scala -> file
+C:\Users\David Pereira\Desktop\TF\observatory\project\StyleChecker.scala -> fileCount
+C:\Users\David Pereira\Desktop\TF\observatory\project\StyleChecker.scala -> fileCount_=
+C:\Users\David Pereira\Desktop\TF\observatory\project\StyleChecker.scala -> fileSpec
+C:\Users\David Pereira\Desktop\TF\observatory\project\StyleChecker.scala -> files
+C:\Users\David Pereira\Desktop\TF\observatory\project\StyleChecker.scala -> findMessage
+C:\Users\David Pereira\Desktop\TF\observatory\project\StyleChecker.scala -> getAbsolutePath
+C:\Users\David Pereira\Desktop\TF\observatory\project\StyleChecker.scala -> getClass
+C:\Users\David Pereira\Desktop\TF\observatory\project\StyleChecker.scala -> getClassLoader
+C:\Users\David Pereira\Desktop\TF\observatory\project\StyleChecker.scala -> getFiles
+C:\Users\David Pereira\Desktop\TF\observatory\project\StyleChecker.scala -> getParent
+C:\Users\David Pereira\Desktop\TF\observatory\project\StyleChecker.scala -> io
+C:\Users\David Pereira\Desktop\TF\observatory\project\StyleChecker.scala -> isInstanceOf
+C:\Users\David Pereira\Desktop\TF\observatory\project\StyleChecker.scala -> java
+C:\Users\David Pereira\Desktop\TF\observatory\project\StyleChecker.scala -> key
+C:\Users\David Pereira\Desktop\TF\observatory\project\StyleChecker.scala -> level
+C:\Users\David Pereira\Desktop\TF\observatory\project\StyleChecker.scala -> line
+C:\Users\David Pereira\Desktop\TF\observatory\project\StyleChecker.scala -> lineNumber
+C:\Users\David Pereira\Desktop\TF\observatory\project\StyleChecker.scala -> load
+C:\Users\David Pereira\Desktop\TF\observatory\project\StyleChecker.scala -> m
+C:\Users\David Pereira\Desktop\TF\observatory\project\StyleChecker.scala -> math
+C:\Users\David Pereira\Desktop\TF\observatory\project\StyleChecker.scala -> max
+C:\Users\David Pereira\Desktop\TF\observatory\project\StyleChecker.scala -> maxResult
+C:\Users\David Pereira\Desktop\TF\observatory\project\StyleChecker.scala -> message
+C:\Users\David Pereira\Desktop\TF\observatory\project\StyleChecker.scala -> messageHelper
+C:\Users\David Pereira\Desktop\TF\observatory\project\StyleChecker.scala -> messages
+C:\Users\David Pereira\Desktop\TF\observatory\project\StyleChecker.scala -> msg
+C:\Users\David Pereira\Desktop\TF\observatory\project\StyleChecker.scala -> name
+C:\Users\David Pereira\Desktop\TF\observatory\project\StyleChecker.scala -> org
+C:\Users\David Pereira\Desktop\TF\observatory\project\StyleChecker.scala -> output
+C:\Users\David Pereira\Desktop\TF\observatory\project\StyleChecker.scala -> outputResult
+C:\Users\David Pereira\Desktop\TF\observatory\project\StyleChecker.scala -> package
+C:\Users\David Pereira\Desktop\TF\observatory\project\StyleChecker.scala -> penalties
+C:\Users\David Pereira\Desktop\TF\observatory\project\StyleChecker.scala -> pos
+C:\Users\David Pereira\Desktop\TF\observatory\project\StyleChecker.scala -> print
+C:\Users\David Pereira\Desktop\TF\observatory\project\StyleChecker.scala -> println
+C:\Users\David Pereira\Desktop\TF\observatory\project\StyleChecker.scala -> readFromXml
+C:\Users\David Pereira\Desktop\TF\observatory\project\StyleChecker.scala -> report
+C:\Users\David Pereira\Desktop\TF\observatory\project\StyleChecker.scala -> s
+C:\Users\David Pereira\Desktop\TF\observatory\project\StyleChecker.scala -> sbt
+C:\Users\David Pereira\Desktop\TF\observatory\project\StyleChecker.scala -> scala
+C:\Users\David Pereira\Desktop\TF\observatory\project\StyleChecker.scala -> scalastyle
+C:\Users\David Pereira\Desktop\TF\observatory\project\StyleChecker.scala -> score
+C:\Users\David Pereira\Desktop\TF\observatory\project\StyleChecker.scala -> sources
+C:\Users\David Pereira\Desktop\TF\observatory\project\StyleChecker.scala -> stream
+C:\Users\David Pereira\Desktop\TF\observatory\project\StyleChecker.scala -> stripMargin
+C:\Users\David Pereira\Desktop\TF\observatory\project\StyleChecker.scala -> styleSheetPath
+C:\Users\David Pereira\Desktop\TF\observatory\project\StyleChecker.scala -> text
+C:\Users\David Pereira\Desktop\TF\observatory\project\StyleChecker.scala -> toString
+C:\Users\David Pereira\Desktop\TF\observatory\project\StyleChecker.scala -> typesafe
+C:\Users\David Pereira\Desktop\TF\observatory\project\StyleChecker.scala -> warnings
+C:\Users\David Pereira\Desktop\TF\observatory\project\StyleChecker.scala -> x
+product stamps:
+89 items
+C:\Users\David Pereira\Desktop\TF\observatory\project\target\scala-2.10\sbt-0.13\classes\Assignment$.class -> lastModified(1513335567733)
+C:\Users\David Pereira\Desktop\TF\observatory\project\target\scala-2.10\sbt-0.13\classes\Assignment.class -> lastModified(1513335567777)
+C:\Users\David Pereira\Desktop\TF\observatory\project\target\scala-2.10\sbt-0.13\classes\AssignmentInfo$.class -> lastModified(1513335567790)
+C:\Users\David Pereira\Desktop\TF\observatory\project\target\scala-2.10\sbt-0.13\classes\AssignmentInfo.class -> lastModified(1513335567815)
+C:\Users\David Pereira\Desktop\TF\observatory\project\target\scala-2.10\sbt-0.13\classes\CommonBuild$class.class -> lastModified(1513335567852)
+C:\Users\David Pereira\Desktop\TF\observatory\project\target\scala-2.10\sbt-0.13\classes\CommonBuild.class -> lastModified(1513335567835)
+C:\Users\David Pereira\Desktop\TF\observatory\project\target\scala-2.10\sbt-0.13\classes\CourseraId$.class -> lastModified(1513335567891)
+C:\Users\David Pereira\Desktop\TF\observatory\project\target\scala-2.10\sbt-0.13\classes\CourseraId.class -> lastModified(1513335567872)
+C:\Users\David Pereira\Desktop\TF\observatory\project\target\scala-2.10\sbt-0.13\classes\Courses$.class -> lastModified(1513335567936)
+C:\Users\David Pereira\Desktop\TF\observatory\project\target\scala-2.10\sbt-0.13\classes\Courses.class -> lastModified(1513335567905)
+C:\Users\David Pereira\Desktop\TF\observatory\project\target\scala-2.10\sbt-0.13\classes\GradingFeedback.class -> lastModified(1513335567983)
+C:\Users\David Pereira\Desktop\TF\observatory\project\target\scala-2.10\sbt-0.13\classes\GradingSummary$.class -> lastModified(1513335568030)
+C:\Users\David Pereira\Desktop\TF\observatory\project\target\scala-2.10\sbt-0.13\classes\GradingSummary.class -> lastModified(1513335567999)
+C:\Users\David Pereira\Desktop\TF\observatory\project\target\scala-2.10\sbt-0.13\classes\MapMapString$.class -> lastModified(1513335568046)
+C:\Users\David Pereira\Desktop\TF\observatory\project\target\scala-2.10\sbt-0.13\classes\MapMapString.class -> lastModified(1513335568061)
+C:\Users\David Pereira\Desktop\TF\observatory\project\target\scala-2.10\sbt-0.13\classes\RecordingLogger$.class -> lastModified(1513335568110)
+C:\Users\David Pereira\Desktop\TF\observatory\project\target\scala-2.10\sbt-0.13\classes\RecordingLogger.class -> lastModified(1513335568077)
+C:\Users\David Pereira\Desktop\TF\observatory\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner$$anon$2.class -> lastModified(1513335568188)
+C:\Users\David Pereira\Desktop\TF\observatory\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner$$anonfun$1.class -> lastModified(1513335568204)
+C:\Users\David Pereira\Desktop\TF\observatory\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner$$anonfun$10.class -> lastModified(1513335568220)
+C:\Users\David Pereira\Desktop\TF\observatory\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner$$anonfun$11.class -> lastModified(1513335568235)
+C:\Users\David Pereira\Desktop\TF\observatory\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner$$anonfun$12.class -> lastModified(1513335568251)
+C:\Users\David Pereira\Desktop\TF\observatory\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner$$anonfun$13.class -> lastModified(1513335568266)
+C:\Users\David Pereira\Desktop\TF\observatory\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner$$anonfun$14.class -> lastModified(1513335568282)
+C:\Users\David Pereira\Desktop\TF\observatory\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner$$anonfun$2.class -> lastModified(1513335568298)
+C:\Users\David Pereira\Desktop\TF\observatory\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner$$anonfun$3.class -> lastModified(1513335568313)
+C:\Users\David Pereira\Desktop\TF\observatory\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner$$anonfun$4.class -> lastModified(1513335568333)
+C:\Users\David Pereira\Desktop\TF\observatory\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner$$anonfun$5.class -> lastModified(1513335568347)
+C:\Users\David Pereira\Desktop\TF\observatory\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner$$anonfun$6.class -> lastModified(1513335568363)
+C:\Users\David Pereira\Desktop\TF\observatory\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner$$anonfun$7.class -> lastModified(1513335568369)
+C:\Users\David Pereira\Desktop\TF\observatory\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner$$anonfun$8.class -> lastModified(1513335568383)
+C:\Users\David Pereira\Desktop\TF\observatory\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner$$anonfun$9.class -> lastModified(1513335568383)
+C:\Users\David Pereira\Desktop\TF\observatory\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner$$anonfun$invokeScalaTestInSeparateProcess$1.class -> lastModified(1513335568399)
+C:\Users\David Pereira\Desktop\TF\observatory\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner$$anonfun$invokeScalaTestInSeparateProcess$2.class -> lastModified(1513335568399)
+C:\Users\David Pereira\Desktop\TF\observatory\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner$.class -> lastModified(1513335568173)
+C:\Users\David Pereira\Desktop\TF\observatory\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner$GradingSummaryUnpickler1$2$$anon$1$$typecreator1$1.class -> lastModified(1513335568446)
+C:\Users\David Pereira\Desktop\TF\observatory\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner$GradingSummaryUnpickler1$2$$anon$1.class -> lastModified(1513335568430)
+C:\Users\David Pereira\Desktop\TF\observatory\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner$GradingSummaryUnpickler1$2$.class -> lastModified(1513335568414)
+C:\Users\David Pereira\Desktop\TF\observatory\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner$LimitedStringBuffer.class -> lastModified(1513335568461)
+C:\Users\David Pereira\Desktop\TF\observatory\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner.class -> lastModified(1513335568126)
+C:\Users\David Pereira\Desktop\TF\observatory\project\target\scala-2.10\sbt-0.13\classes\Settings$.class -> lastModified(1513335568492)
+C:\Users\David Pereira\Desktop\TF\observatory\project\target\scala-2.10\sbt-0.13\classes\Settings.class -> lastModified(1513335568477)
+C:\Users\David Pereira\Desktop\TF\observatory\project\target\scala-2.10\sbt-0.13\classes\StudentBuild$.class -> lastModified(1513335568524)
+C:\Users\David Pereira\Desktop\TF\observatory\project\target\scala-2.10\sbt-0.13\classes\StudentBuild.class -> lastModified(1513335568508)
+C:\Users\David Pereira\Desktop\TF\observatory\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$1$$anonfun$2.class -> lastModified(1513335568794)
+C:\Users\David Pereira\Desktop\TF\observatory\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$1$$anonfun$3.class -> lastModified(1513335568809)
+C:\Users\David Pereira\Desktop\TF\observatory\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$1$$anonfun$4$$anonfun$apply$1.class -> lastModified(1513335568841)
+C:\Users\David Pereira\Desktop\TF\observatory\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$1$$anonfun$4.class -> lastModified(1513335568825)
+C:\Users\David Pereira\Desktop\TF\observatory\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$1.class -> lastModified(1513335568778)
+C:\Users\David Pereira\Desktop\TF\observatory\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$12$$anonfun$apply$10.class -> lastModified(1513335568872)
+C:\Users\David Pereira\Desktop\TF\observatory\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$12$$anonfun$apply$9.class -> lastModified(1513335568887)
+C:\Users\David Pereira\Desktop\TF\observatory\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$12.class -> lastModified(1513335568856)
+C:\Users\David Pereira\Desktop\TF\observatory\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$5.class -> lastModified(1513335568903)
+C:\Users\David Pereira\Desktop\TF\observatory\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$prepareJar$1.class -> lastModified(1513335568919)
+C:\Users\David Pereira\Desktop\TF\observatory\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$prepareJar$2.class -> lastModified(1513335568919)
+C:\Users\David Pereira\Desktop\TF\observatory\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$prepareJar$3.class -> lastModified(1513335568950)
+C:\Users\David Pereira\Desktop\TF\observatory\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$prepareJar$4.class -> lastModified(1513335568981)
+C:\Users\David Pereira\Desktop\TF\observatory\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$root$1.class -> lastModified(1513335569012)
+C:\Users\David Pereira\Desktop\TF\observatory\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$root$2.class -> lastModified(1513335569028)
+C:\Users\David Pereira\Desktop\TF\observatory\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$root$3.class -> lastModified(1513335569044)
+C:\Users\David Pereira\Desktop\TF\observatory\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$root$4.class -> lastModified(1513335569059)
+C:\Users\David Pereira\Desktop\TF\observatory\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$root$5.class -> lastModified(1513335569075)
+C:\Users\David Pereira\Desktop\TF\observatory\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$root$6.class -> lastModified(1513335569091)
+C:\Users\David Pereira\Desktop\TF\observatory\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$submitLocalSetting$1$$anonfun$apply$2$$anonfun$apply$3$$anonfun$apply$4.class -> lastModified(1513335569153)
+C:\Users\David Pereira\Desktop\TF\observatory\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$submitLocalSetting$1$$anonfun$apply$2$$anonfun$apply$3.class -> lastModified(1513335569137)
+C:\Users\David Pereira\Desktop\TF\observatory\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$submitLocalSetting$1$$anonfun$apply$2.class -> lastModified(1513335569122)
+C:\Users\David Pereira\Desktop\TF\observatory\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$submitLocalSetting$1.class -> lastModified(1513335569106)
+C:\Users\David Pereira\Desktop\TF\observatory\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$10.class -> lastModified(1513335569216)
+C:\Users\David Pereira\Desktop\TF\observatory\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$11.class -> lastModified(1513335569231)
+C:\Users\David Pereira\Desktop\TF\observatory\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$6.class -> lastModified(1513335569231)
+C:\Users\David Pereira\Desktop\TF\observatory\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$7.class -> lastModified(1513335569247)
+C:\Users\David Pereira\Desktop\TF\observatory\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$8.class -> lastModified(1513335569262)
+C:\Users\David Pereira\Desktop\TF\observatory\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$9.class -> lastModified(1513335569278)
+C:\Users\David Pereira\Desktop\TF\observatory\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$apply$7.class -> lastModified(1513335569294)
+C:\Users\David Pereira\Desktop\TF\observatory\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$apply$8.class -> lastModified(1513335569294)
+C:\Users\David Pereira\Desktop\TF\observatory\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$postSubmission$1$1.class -> lastModified(1513335569309)
+C:\Users\David Pereira\Desktop\TF\observatory\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$reportCourseraResponse$1$1.class -> lastModified(1513335569309)
+C:\Users\David Pereira\Desktop\TF\observatory\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$reportCourseraResponse$1$2.class -> lastModified(1513335569335)
+C:\Users\David Pereira\Desktop\TF\observatory\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$reportCourseraResponse$1$3.class -> lastModified(1513335569348)
+C:\Users\David Pereira\Desktop\TF\observatory\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$reportCourseraResponse$1$4.class -> lastModified(1513335569356)
+C:\Users\David Pereira\Desktop\TF\observatory\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6.class -> lastModified(1513335569200)
+C:\Users\David Pereira\Desktop\TF\observatory\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5.class -> lastModified(1513335569169)
+C:\Users\David Pereira\Desktop\TF\observatory\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$submitSetting$1.class -> lastModified(1513335569169)
+C:\Users\David Pereira\Desktop\TF\observatory\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike.class -> lastModified(1513335568571)
+C:\Users\David Pereira\Desktop\TF\observatory\project\target\scala-2.10\sbt-0.13\classes\StyleCheck$.class -> lastModified(1513335569372)
+C:\Users\David Pereira\Desktop\TF\observatory\project\target\scala-2.10\sbt-0.13\classes\StyleCheck.class -> lastModified(1513335569381)
+C:\Users\David Pereira\Desktop\TF\observatory\project\target\scala-2.10\sbt-0.13\classes\StyleChecker$.class -> lastModified(1513335569399)
+C:\Users\David Pereira\Desktop\TF\observatory\project\target\scala-2.10\sbt-0.13\classes\StyleChecker$CustomTextOutput.class -> lastModified(1513335569415)
+C:\Users\David Pereira\Desktop\TF\observatory\project\target\scala-2.10\sbt-0.13\classes\StyleChecker.class -> lastModified(1513335569384)
+source stamps:
+8 items
+C:\Users\David Pereira\Desktop\TF\observatory\project\CommonBuild.scala -> hash(09460300fc1be147a8f00fb80fe010ef59fa01f2)
+C:\Users\David Pereira\Desktop\TF\observatory\project\Courses.scala -> hash(27db7affd648e1d6a1c126be6fc6b998d96bfc0c)
+C:\Users\David Pereira\Desktop\TF\observatory\project\GradingFeedback.scala -> hash(465ad938dd5b956be8d9c8c4e0e5ff0ccd34b760)
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> hash(744950c1944944d2fb9f46f2d57c3873280f2a78)
+C:\Users\David Pereira\Desktop\TF\observatory\project\Settings.scala -> hash(d7e0072c3c0c16a01ad0dc727c97ecccf8f7791a)
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuild.scala -> hash(ec89d09f3293126eee5f4127779e8bf052674095)
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> hash(46a82e1affe9068c5355d3ae247f0668d4bb9b44)
+C:\Users\David Pereira\Desktop\TF\observatory\project\StyleChecker.scala -> hash(71fa97d829a902e35bad1e762522c42cbbb5c837)
+binary stamps:
+19 items
+C:\Program Files\Java\jdk1.8.0_151\jre\lib\rt.jar -> lastModified(1509618114138)
+C:\Users\David Pereira\.ivy2\cache\com.typesafe\config\bundles\config-1.2.0.jar -> lastModified(1389798583000)
+C:\Users\David Pereira\.ivy2\cache\commons-codec\commons-codec\jars\commons-codec-1.10.jar -> lastModified(1415283333000)
+C:\Users\David Pereira\.ivy2\cache\org.scala-lang.modules\scala-pickling_2.10\jars\scala-pickling_2.10-0.10.0.jar -> lastModified(1423252686000)
+C:\Users\David Pereira\.ivy2\cache\org.scala-sbt\apply-macro\jars\apply-macro-0.13.9.jar -> lastModified(1439253124000)
+C:\Users\David Pereira\.ivy2\cache\org.scala-sbt\collections\jars\collections-0.13.9.jar -> lastModified(1439253119000)
+C:\Users\David Pereira\.ivy2\cache\org.scala-sbt\incremental-compiler\jars\incremental-compiler-0.13.9.jar -> lastModified(1439253231000)
+C:\Users\David Pereira\.ivy2\cache\org.scala-sbt\io\jars\io-0.13.9.jar -> lastModified(1439253134000)
+C:\Users\David Pereira\.ivy2\cache\org.scala-sbt\ivy\jars\ivy-0.13.9.jar -> lastModified(1439253183000)
+C:\Users\David Pereira\.ivy2\cache\org.scala-sbt\logging\jars\logging-0.13.9.jar -> lastModified(1439253150000)
+C:\Users\David Pereira\.ivy2\cache\org.scala-sbt\main-settings\jars\main-settings-0.13.9.jar -> lastModified(1439253272000)
+C:\Users\David Pereira\.ivy2\cache\org.scala-sbt\main\jars\main-0.13.9.jar -> lastModified(1439253285000)
+C:\Users\David Pereira\.ivy2\cache\org.scala-sbt\sbt\jars\sbt-0.13.9.jar -> lastModified(1439253291000)
+C:\Users\David Pereira\.ivy2\cache\org.scala-sbt\task-system\jars\task-system-0.13.9.jar -> lastModified(1439253204000)
+C:\Users\David Pereira\.ivy2\cache\org.scalaj\scalaj-http_2.10\jars\scalaj-http_2.10-2.2.1.jar -> lastModified(1452005615000)
+C:\Users\David Pereira\.ivy2\cache\org.scalastyle\scalastyle_2.10\jars\scalastyle_2.10-0.8.0.jar -> lastModified(1449002502000)
+C:\Users\David Pereira\.sbt\boot\scala-2.10.5\lib\scala-compiler.jar -> lastModified(1425002097000)
+C:\Users\David Pereira\.sbt\boot\scala-2.10.5\lib\scala-library.jar -> lastModified(1425002069000)
+C:\Users\David Pereira\.sbt\boot\scala-2.10.5\lib\scala-reflect.jar -> lastModified(1425002084000)
+class names:
+19 items
+C:\Program Files\Java\jdk1.8.0_151\jre\lib\rt.jar -> java.lang.Object
+C:\Users\David Pereira\.ivy2\cache\com.typesafe\config\bundles\config-1.2.0.jar -> com.typesafe.config.ConfigFactory
+C:\Users\David Pereira\.ivy2\cache\commons-codec\commons-codec\jars\commons-codec-1.10.jar -> org.apache.commons.codec.binary.Base64
+C:\Users\David Pereira\.ivy2\cache\org.scala-lang.modules\scala-pickling_2.10\jars\scala-pickling_2.10-0.10.0.jar -> scala.pickling.FastTypeTag
+C:\Users\David Pereira\.ivy2\cache\org.scala-sbt\apply-macro\jars\apply-macro-0.13.9.jar -> sbt.appmacro.Instance$
+C:\Users\David Pereira\.ivy2\cache\org.scala-sbt\collections\jars\collections-0.13.9.jar -> sbt.Init
+C:\Users\David Pereira\.ivy2\cache\org.scala-sbt\incremental-compiler\jars\incremental-compiler-0.13.9.jar -> sbt.inc.Analysis
+C:\Users\David Pereira\.ivy2\cache\org.scala-sbt\io\jars\io-0.13.9.jar -> sbt.PathExtra
+C:\Users\David Pereira\.ivy2\cache\org.scala-sbt\ivy\jars\ivy-0.13.9.jar -> sbt.ModuleID
+C:\Users\David Pereira\.ivy2\cache\org.scala-sbt\logging\jars\logging-0.13.9.jar -> sbt.Logger
+C:\Users\David Pereira\.ivy2\cache\org.scala-sbt\main-settings\jars\main-settings-0.13.9.jar -> sbt.std.ParserInstance$
+C:\Users\David Pereira\.ivy2\cache\org.scala-sbt\main\jars\main-0.13.9.jar -> sbt.Project$
+C:\Users\David Pereira\.ivy2\cache\org.scala-sbt\sbt\jars\sbt-0.13.9.jar -> sbt.package$
+C:\Users\David Pereira\.ivy2\cache\org.scala-sbt\task-system\jars\task-system-0.13.9.jar -> sbt.std.TaskStreams
+C:\Users\David Pereira\.ivy2\cache\org.scalaj\scalaj-http_2.10\jars\scalaj-http_2.10-2.2.1.jar -> scalaj.http.HttpRequest
+C:\Users\David Pereira\.ivy2\cache\org.scalastyle\scalastyle_2.10\jars\scalastyle_2.10-0.8.0.jar -> org.scalastyle.Output
+C:\Users\David Pereira\.sbt\boot\scala-2.10.5\lib\scala-compiler.jar -> scala.tools.nsc.io.package$
+C:\Users\David Pereira\.sbt\boot\scala-2.10.5\lib\scala-library.jar -> scala.math.package$
+C:\Users\David Pereira\.sbt\boot\scala-2.10.5\lib\scala-reflect.jar -> scala.reflect.io.File
+internal apis:
+8 items
+C:\Users\David Pereira\Desktop\TF\observatory\project\CommonBuild.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCYBUs/AHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAH3NyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cM6/5yN0AAZub3RpZnlzcQB+AAzho1SddAAEd2FpdHNxAH4ADJnmT4l0AAZjb3Vyc2VzcQB+AAwjqmifdAANJGFzSW5zdGFuY2VPZnNxAH4ADGNroG10AAxidWlsZExvYWRlcnNzcQB+AAwox+mMdAAIY291cnNlSWRzcQB+AAw9m15XdAAGZXF1YWxzc3EAfgAMRqbfFnQADGFzSW5zdGFuY2VPZnNxAH4ADAHJm8J0ABJwcm9qZWN0RGVmaW5pdGlvbnNzcQB+AAzdqgdMdAAMc3luY2hyb25pemVkc3EAfgAMLQq0e3QADSRpc0luc3RhbmNlT2ZzcQB+AAzj2GZTdAAJbm90aWZ5QWxsc3EAfgAM3xVofXQAC3Jvb3RQcm9qZWN0c3EAfgAMhAnFUXQADGlzSW5zdGFuY2VPZnNxAH4ADKeOrGZ0ABRjb21tb25Tb3VyY2VQYWNrYWdlc3NxAH4ADNcnUBt0AAI9PXNxAH4ADJW6J8l0AAtDb21tb25CdWlsZHNxAH4ADNuSQ1Z0AAVjbG9uZXNxAH4ADB/mK4x0AAYkaW5pdCRzcQB+AAyveo9jdAATc2NhbGFUZXN0RGVwZW5kZW5jeXNxAH4ADL/6pdF0AAh0b1N0cmluZ3NxAH4ADLGQwsV0AAIhPXNxAH4ADFdlioB0AAhwcm9qZWN0c3NxAH4ADH5Q7n10AAhnZXRDbGFzc3NxAH4ADK5HYKl0AAphc3NpZ25tZW50c3EAfgAMqvyR9XQAAm5lc3EAfgAMcLrUjXQAAmVxc3EAfgAMZ252nnQACHNldHRpbmdzc3EAfgAM1at3/3QAAiMjc3EAfgAMKK+cA3QACGZpbmFsaXplc3EAfgAMi56UuHQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AVXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAXEAfgAvdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAFVHJhaXR1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHABc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHBzcQB+AGwBc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AFVMAAlpbmhlcml0ZWRxAH4AVUwAB3BhcmVudHNxAH4AVXhxAH4Ac3NxAH4AbAF1cQB+AFAAAAAAcHNxAH4AbAF1cQB+AFAAAAAAcHNxAH4AbAF1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAA3NyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AHJ0AAVCdWlsZHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AcnNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAADc2J0c3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AIxzcQB+AH90AAZPYmplY3RzcQB+AINzcQB+AIZ1cQB+AIkAAAADc3EAfgCLdAAEamF2YXNxAH4Ai3QABGxhbmdxAH4AkHNxAH4Af3QAA0FueXNxAH4Ag3NxAH4AhnVxAH4AiQAAAAJzcQB+AIt0AAVzY2FsYXEAfgCQcHB1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYFnUDAt1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABYQzpcVXNlcnNcRGF2aWQgUGVyZWlyYVxEZXNrdG9wXFRGXG9ic2VydmF0b3J5XHByb2plY3RcdGFyZ2V0XHNjYWxhLTIuMTBcc2J0LTAuMTNcY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFAlGAwD8G+FHqPAPuA/gEO9Z+gHy
+C:\Users\David Pereira\Desktop\TF\observatory\project\Courses.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHBsO4/gAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAMHNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cJA+gDt0AAZub3RpZnlzcQB+AAzbzU8tdAAEd2FpdHNxAH4ADMXNV4t0AAhtYXhTY29yZXNxAH4ADC0Owg90AA5jb3B5JGRlZmF1bHQkMnNxAH4ADOH7Qs10AA0kYXNJbnN0YW5jZU9mc3EAfgAMrdgb7HQADmNvcHkkZGVmYXVsdCQ1c3EAfgAM7b5nxXQACkNvdXJzZXJhSWRzcQB+AAyZKtJ1dAAMcHJvZHVjdEFyaXR5c3EAfgAMPGnEtXQABmVxdWFsc3NxAH4ADGM3bT10AApjb3Vyc2VyYUlkc3EAfgAMhSPPQ3QAA2FsbHNxAH4ADBl7Gb90AAxhc0luc3RhbmNlT2ZzcQB+AAwiXq7ddAAMc3luY2hyb25pemVkc3EAfgAMR6l6gHQADSRpc0luc3RhbmNlT2ZzcQB+AAw+pfNndAALcGFja2FnZU5hbWVzcQB+AAzZ8UlSdAAKc2NvcmVSYXRpb3NxAH4ADMnE9/10AAhjYW5FcXVhbHNxAH4ADC/btUZ0AA5jb3B5JGRlZmF1bHQkNHNxAH4ADI0Q5Mh0AA1wcm9kdWN0UHJlZml4c3EAfgAMmeu9Y3QACW5vdGlmeUFsbHNxAH4ADA6r7bx0AANrZXlzcQB+AAwwDNzcdAAMaXNJbnN0YW5jZU9mc3EAfgAMveBWCnQAB29wdGlvbnNzcQB+AAwYlh1udAAGPGluaXQ+c3EAfgAMDbbTLnQACnN0eWxlQ2hlY2tzcQB+AAyyzfjzdAAHQ291cnNlc3NxAH4ADEINjGB0AAI9PXNxAH4ADNli4vN0AAVjbG9uZXNxAH4ADLfM1ot0AApzdHlsZVNoZWV0c3EAfgAM54zSKHQABml0ZW1JZHNxAH4ADKOo13l0AA5jb3B5JGRlZmF1bHQkM3NxAH4ADM6wL/l0AARjb3B5c3EAfgAM74jAbnQACHRvU3RyaW5nc3EAfgAMLhDAR3QACkFzc2lnbm1lbnRzcQB+AAw+PWC8dAACIT1zcQB+AAwXiwradAAIZ2V0Q2xhc3NzcQB+AAzLNYdxdAALQXNzaWdubWVudHNzcQB+AAza82P7dAANcHJlbWl1bUl0ZW1JZHNxAH4ADF8xPjR0AA5jb3B5JGRlZmF1bHQkMXNxAH4ADMpRvfV0AAJuZXNxAH4ADB5bnAB0AAZwYXJ0SWRzcQB+AAxqN4xbdAACZXFzcQB+AAxJsTxVdAAKU3R5bGVDaGVja3NxAH4ADNS6L1Z0AA9wcm9kdWN0SXRlcmF0b3JzcQB+AAy9t5P5dAACIyNzcQB+AAwOdVnZdAAIZmluYWxpemVzcQB+AAzhatJXdAAOcHJvZHVjdEVsZW1lbnRzcQB+AAy77fsEdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAAEc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgB3eHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAcQB+AEF1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHABc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHBzcQB+AI4Bc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AHdMAAlpbmhlcml0ZWRxAH4Ad0wAB3BhcmVudHNxAH4Ad3hxAH4AlXNxAH4AjgF1cQB+AHIAAAAAcHNxAH4AjgF1cQB+AHIAAAAAcHNxAH4AjgF1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AJR0AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AJRzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AK10AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AK5zcQB+AKF0AANBbnlzcQB+AKVzcQB+AKh1cQB+AKsAAAACc3EAfgCtdAAFc2NhbGFxAH4AtHBwc3EAfgB0cQB+AIF1cQB+AIIAAAAAc3EAfgCEAHEAfgBRdXEAfgCGAAAAAH5xAH4AiHQACENsYXNzRGVmdXEAfgCMAAAAAHNxAH4AjgFxAH4AlnBzcQB+AI4Bc3EAfgCYc3EAfgCOAXVxAH4AcgAAAABwc3EAfgCOAXVxAH4AcgAAAABwc3EAfgCOAXVxAH4AnwAAAAZzcQB+AKF0AAxTZXJpYWxpemFibGVzcQB+AKVzcQB+AKh1cQB+AKsAAAACc3EAfgCtcQB+ALtxAH4AtHNxAH4AoXEAfgDNc3EAfgClc3EAfgCodXEAfgCrAAAAA3NxAH4ArXEAfgCwc3EAfgCtdAACaW9xAH4AtHNxAH4AoXQAB1Byb2R1Y3RxAH4AznNxAH4AoXQABkVxdWFsc3EAfgDOc3EAfgChcQB+AKRzcQB+AKVzcQB+AKh1cQB+AKsAAAADc3EAfgCtcQB+ALBzcQB+AK1xAH4AsnEAfgC0c3EAfgChcQB+ALZxAH4AznBwc3EAfgB0cQB+AIF1cQB+AIIAAAAAc3EAfgCEAHEAfgBjdXEAfgCGAAAAAHEAfgDAdXEAfgCMAAAAAHNxAH4AjgFxAH4AlnBzcQB+AI4Bc3EAfgCYc3EAfgCOAXVxAH4AcgAAAABwc3EAfgCOAXVxAH4AcgAAAABwc3EAfgCOAXVxAH4AnwAAAAZzcQB+AKFxAH4AzXNxAH4ApXNxAH4AqHVxAH4AqwAAAAJzcQB+AK1xAH4Au3EAfgC0c3EAfgChcQB+AM1zcQB+AKVzcQB+AKh1cQB+AKsAAAADc3EAfgCtcQB+ALBzcQB+AK10AAJpb3EAfgC0c3EAfgChcQB+ANpxAH4A83NxAH4AoXQABkVxdWFsc3EAfgDzc3EAfgChcQB+AKRzcQB+AKVzcQB+AKh1cQB+AKsAAAADc3EAfgCtcQB+ALBzcQB+AK1xAH4AsnEAfgC0c3EAfgChcQB+ALZxAH4A83Bwc3EAfgB0cQB+AIF1cQB+AIIAAAAAc3EAfgCEAHEAfgAbdXEAfgCGAAAAAHEAfgDAdXEAfgCMAAAAAHNxAH4AjgFxAH4AlnBzcQB+AI4Bc3EAfgCYc3EAfgCOAXVxAH4AcgAAAABwc3EAfgCOAXVxAH4AcgAAAABwc3EAfgCOAXVxAH4AnwAAAAZzcQB+AKFxAH4AzXNxAH4ApXNxAH4AqHVxAH4AqwAAAAJzcQB+AK1xAH4Au3EAfgC0c3EAfgChcQB+AM1zcQB+AKVzcQB+AKh1cQB+AKsAAAADc3EAfgCtcQB+ALBzcQB+AK10AAJpb3EAfgC0c3EAfgChcQB+ANpxAH4BF3NxAH4AoXQABkVxdWFsc3EAfgEXc3EAfgChcQB+AKRzcQB+AKVzcQB+AKh1cQB+AKsAAAADc3EAfgCtcQB+ALBzcQB+AK1xAH4AsnEAfgC0c3EAfgChcQB+ALZxAH4BF3BwdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAABzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAWBZ1AwLdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAWEM6XFVzZXJzXERhdmlkIFBlcmVpcmFcRGVza3RvcFxURlxvYnNlcnZhdG9yeVxwcm9qZWN0XHRhcmdldFxzY2FsYS0yLjEwXHNidC0wLjEzXGNsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABQn23r/1kjh1qHBJr5vxrmY2Wv8DA==
+C:\Users\David Pereira\Desktop\TF\observatory\project\GradingFeedback.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHAlGPXfAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAARXNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cBC7zYp0AAZub3RpZnlzcQB+AAyCztWtdAANbWF4VG90YWxTY29yZXNxAH4ADMYUUq50AAdzdWNjZXNzc3EAfgAMphAPoHQABHdhaXRzcQB+AAxQNcW9dAAIbWF4U2NvcmVzcQB+AAykXYZJdAARdGVzdENvbXBpbGVGYWlsZWRzcQB+AAxNwOCOdAANJGFzSW5zdGFuY2VPZnNxAH4ADLHH21t0AAV0cmFjZXNxAH4ADISTlhp0ABJhbnNpQ29kZXNTdXBwb3J0ZWRzcQB+AAzVbJ8odAATdW5wYWNrRmFpbGVkTWVzc2FnZXNxAH4ADDC2mB10AAR3YXJuc3EAfgAMXX+ws3QACWhhc0Vycm9yc3NxAH4ADJEJDiR0AAx1bnBhY2tGYWlsZWRzcQB+AAyokdaRdAAHdmVyYm9zZXNxAH4ADGpOrIt0AAZlcXVhbHNzcQB+AAxEC/irdAAPc3R5bGVTY29yZVJhdGlvc3EAfgAMiXnPNHQADHBlcmZlY3RTdHlsZXNxAH4ADEsf4Bl0ABN0ZXN0RXhlY3V0aW9uRmFpbGVkc3EAfgAMkTen9XQABWNsZWFyc3EAfgAM2xKuB3QACmFkZERldGFpbHNzcQB+AAyh1XqndAAMYXNJbnN0YW5jZU9mc3EAfgAMwc/CsnQAD2ZlZWRiYWNrU3VtbWFyeXNxAH4ADFfWj9Z0ABF0b3RhbEdyYWRlTWVzc2FnZXNxAH4ADAM88u50AAxtYXhUZXN0U2NvcmVzcQB+AAyUW+2ZdAAKYWRkU3VtbWFyeXNxAH4ADBi1Gbx0AAxzeW5jaHJvbml6ZWRzcQB+AAzJGhHrdAAUc3R5bGVQcm9ibGVtc01lc3NhZ2VzcQB+AAxrTMMQdAAGZmFpbGVkc3EAfgAM6SD83XQAE3BlcmZlY3RTdHlsZU1lc3NhZ2VzcQB+AAywnrPxdAANJGlzSW5zdGFuY2VPZnNxAH4ADNhlKS50AA1tYXhTdHlsZVNjb3Jlc3EAfgAMbY6J73QABmJ1ZmZlcnNxAH4ADIXFUCt0AA5mZWVkYmFja1N0cmluZ3NxAH4ADIbO+N10AARpbmZvc3EAfgAMLFjfS3QACW5vdGlmeUFsbHNxAH4ADA0yX1F0AA5hbGxUZXN0c1Bhc3NlZHNxAH4ADL8X5g90AAVkZWJ1Z3NxAH4ADKciWCd0AAxpc0luc3RhbmNlT2ZzcQB+AAxLs/5hdAAPUmVjb3JkaW5nTG9nZ2Vyc3EAfgAMJorGuHQABjxpbml0PnNxAH4ADHjqgxJ0AA1jb21waWxlRmFpbGVkc3EAfgAMGZWR+XQACnZUZXN0U2NvcmVzcQB+AAyT13ctdAAMcmVhZEFuZENsZWFyc3EAfgAMqnwdiXQABWVycm9yc3EAfgAMQS1B+nQAFXRlc3RFeGVjdXRpb25EZWJ1Z0xvZ3NxAH4ADEGhRJ10AA9HcmFkaW5nRmVlZGJhY2tzcQB+AAxH9HJMdAANc3R5bGVQcm9ibGVtc3NxAH4ADL+Eq0d0AAp0b3RhbFNjb3Jlc3EAfgAMzA8sqHQAAj09c3EAfgAMbCN9H3QAGnRlc3RFeGVjdXRpb25GYWlsZWRNZXNzYWdlc3EAfgAMfgdKbXQABWNsb25lc3EAfgAM8sq0+nQAC3NldE1heFNjb3Jlc3EAfgAM4fepfnQAD2ZlZWRiYWNrRGV0YWlsc3NxAH4ADBlRCG10ABVhbGxUZXN0c1Bhc3NlZE1lc3NhZ2VzcQB+AAyOBV4MdAAIdG9TdHJpbmdzcQB+AAx8u+u4dAACIT1zcQB+AAxKKjxjdAASdGVzdHNGYWlsZWRNZXNzYWdlc3EAfgAMWrNGunQACGdldENsYXNzc3EAfgAMmWCglHQAAm5lc3EAfgAM9rxYMHQAGHRlc3RDb21waWxlRmFpbGVkTWVzc2FnZXNxAH4ADDTU3rZ0AAhpc0ZhaWxlZHNxAH4ADM3fil90AAt2U3R5bGVTY29yZXNxAH4ADCGTlm10AAJlcXNxAH4ADEcxRwR0AANsb2dzcQB+AAwhfrPEdAACIyNzcQB+AAy6gSIvdAAIZmluYWxpemVzcQB+AAwvC+TKdAAIaGFzaENvZGVzcQB+AAzK5pHsdAALdGVzdHNGYWlsZWRzcQB+AAydTrptdAAUY29tcGlsZUZhaWxlZE1lc3NhZ2VzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAACc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgCheHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAcQB+AGl1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAhDbGFzc0RlZnVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cAFzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwcHNxAH4AuAFzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AoUwACWluaGVyaXRlZHEAfgChTAAHcGFyZW50c3EAfgCheHEAfgC/c3EAfgC4AXVxAH4AnAAAAABwc3EAfgC4AXVxAH4AnAAAAABwc3EAfgC4AXVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAACc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AvnQABk9iamVjdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AvnNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEamF2YXNxAH4A13QABGxhbmdzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4A2HNxAH4Ay3QAA0FueXNxAH4Az3NxAH4A0nVxAH4A1QAAAAJzcQB+ANd0AAVzY2FsYXEAfgDecHBzcQB+AJ5xAH4Aq3VxAH4ArAAAAABzcQB+AK4AcQB+AFt1cQB+ALAAAAAAfnEAfgCydAAGTW9kdWxldXEAfgC2AAAAAHNxAH4AuAFxAH4AwHBzcQB+ALgBc3EAfgDCc3EAfgC4AXVxAH4AnAAAAABwc3EAfgC4AXVxAH4AnAAAAABwc3EAfgC4AXVxAH4AyQAAAARzcQB+AMt0AAZMb2dnZXJzcQB+AM9zcQB+ANJ1cQB+ANUAAAACc3EAfgDXdAADc2J0cQB+AN5zcQB+AMt0AAZMb2dnZXJzcQB+AM9zcQB+ANJ1cQB+ANUAAAACc3EAfgDXdAAFeHNidGlxAH4A3nNxAH4Ay3EAfgDOc3EAfgDPc3EAfgDSdXEAfgDVAAAAA3NxAH4A13EAfgDac3EAfgDXcQB+ANxxAH4A3nNxAH4Ay3EAfgDgc3EAfgDPc3EAfgDSdXEAfgDVAAAAAnNxAH4A13EAfgDlcQB+AN5wcHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAAc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFgWdQMC3VyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AFhDOlxVc2Vyc1xEYXZpZCBQZXJlaXJhXERlc2t0b3BcVEZcb2JzZXJ2YXRvcnlccHJvamVjdFx0YXJnZXRcc2NhbGEtMi4xMFxzYnQtMC4xM1xjbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAURlrZON1blWvo2cjE4OX/DM00t2A=
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHDsb5EOAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAMHNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cBztt8F0AAZub3RpZnlzcQB+AAwOb52LdAANbGVuZ3RoQ3JvcHBlZHNxAH4ADGTryRN0AA5jb21wdXRlU3VtbWFyeXNxAH4ADF2hOc10AAR3YWl0c3EAfgAMxk52unQACG1heFNjb3Jlc3EAfgAMYZ9rYXQADmNvcHkkZGVmYXVsdCQyc3EAfgAMoytZxnQADSRhc0luc3RhbmNlT2ZzcQB+AAwA4PQXdAATTGltaXRlZFN0cmluZ0J1ZmZlcnNxAH4ADFkQAjt0AAxwcm9kdWN0QXJpdHlzcQB+AAyMnn1rdAAGZXF1YWxzc3EAfgAM7el0u3QAB3Rlc3RFbnZzcQB+AAz5m5d5dAAQc2NhbGFUZXN0Q29tbWFuZHNxAH4ADESd4tZ0AAxhc0luc3RhbmNlT2ZzcQB+AAx5ejQBdAAMcnVuU2NhbGFUZXN0c3EAfgAMyoVVYHQADHN5bmNocm9uaXplZHNxAH4ADC/cM3Z0AAVzY29yZXNxAH4ADCfUp0t0AA0kaXNJbnN0YW5jZU9mc3EAfgAMMzaZUHQAA2J1ZnNxAH4ADBrw10V0AAhjYW5FcXVhbHNxAH4ADCRfY1V0AA1wcm9kdWN0UHJlZml4c3EAfgAMLh9VjHQACW5vdGlmeUFsbHNxAH4ADA4s9IJ0AAxpc0luc3RhbmNlT2ZzcQB+AAwOxexpdAAOc2NhbGFUZXN0R3JhZGVzcQB+AAw/4Xm+dAAIZmVlZGJhY2tzcQB+AAwhEx6QdAAGPGluaXQ+c3EAfgAMtFTc13QAD1NjYWxhVGVzdFJ1bm5lcnNxAH4ADFU7iqN0AAI9PXNxAH4ADKPPpRt0AAVjbG9uZXNxAH4ADJKa+0p0ACBpbnZva2VTY2FsYVRlc3RJblNlcGFyYXRlUHJvY2Vzc3NxAH4ADGKazR10AA5jb3B5JGRlZmF1bHQkM3NxAH4ADN/+hK10AARjb3B5c3EAfgAMggmp3nQACHRvU3RyaW5nc3EAfgAM6jN11XQADkdyYWRpbmdTdW1tYXJ5c3EAfgAMZcBOBXQADXJ1blBhdGhTdHJpbmdzcQB+AAx7qfZydAACIT1zcQB+AAzJMYXndAAIZ2V0Q2xhc3NzcQB+AAwz9cbKdAAOY29weSRkZWZhdWx0JDFzcQB+AAxsHdCzdAAFbGluZXNzcQB+AAxkKeTTdAACbmVzcQB+AAwPasqtdAALZm9ya1Byb2Nlc3NzcQB+AAwl/qYidAACZXFzcQB+AAwMnkV+dAAPcHJvZHVjdEl0ZXJhdG9yc3EAfgAMTHXO3HQAAiMjc3EAfgAMlZSaMHQACGZpbmFsaXplc3EAfgAMY1OGNXQADnByb2R1Y3RFbGVtZW50c3EAfgAMUpKVpHQACGhhc2hDb2Rlc3EAfgAM3qxwAXQAD3VucGlja2xlU3VtbWFyeXNxAH4ADEcWQfl0AAZhcHBlbmRzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAACc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgB3eHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAEcQB+AE91cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAhDbGFzc0RlZnVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cAFzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwcHNxAH4AjgFzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4Ad0wACWluaGVyaXRlZHEAfgB3TAAHcGFyZW50c3EAfgB3eHEAfgCVc3EAfgCOAXVxAH4AcgAAAABwc3EAfgCOAXVxAH4AcgAAAABwc3EAfgCOAXVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAAGc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AlHQADFNlcmlhbGl6YWJsZXNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AlHNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4ArnNxAH4AoXEAfgCkc3EAfgClc3EAfgCodXEAfgCrAAAAA3NxAH4ArXQABGphdmFzcQB+AK10AAJpb3EAfgCyc3EAfgChdAAHUHJvZHVjdHEAfgCnc3EAfgChdAAGRXF1YWxzcQB+AKdzcQB+AKF0AAZPYmplY3RzcQB+AKVzcQB+AKh1cQB+AKsAAAADc3EAfgCtcQB+ALhzcQB+AK10AARsYW5ncQB+ALJzcQB+AKF0AANBbnlxAH4Ap3Bwc3EAfgB0cQB+AIF1cQB+AIIAAAAAc3EAfgCEAHEAfgBBdXEAfgCGAAAAAH5xAH4AiHQABk1vZHVsZXVxAH4AjAAAAABzcQB+AI4BcQB+AJZwc3EAfgCOAXNxAH4AmHNxAH4AjgF1cQB+AHIAAAAAcHNxAH4AjgF1cQB+AHIAAAAAcHNxAH4AjgF1cQB+AJ8AAAACc3EAfgChcQB+AMBzcQB+AKVzcQB+AKh1cQB+AKsAAAADc3EAfgCtcQB+ALhzcQB+AK1xAH4AxnEAfgCyc3EAfgChcQB+AMhzcQB+AKVzcQB+AKh1cQB+AKsAAAACc3EAfgCtcQB+ALBxAH4AsnBwdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAABzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAWBZ1AwLdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAWEM6XFVzZXJzXERhdmlkIFBlcmVpcmFcRGVza3RvcFxURlxvYnNlcnZhdG9yeVxwcm9qZWN0XHRhcmdldFxzY2FsYS0yLjEwXHNidC0wLjEzXGNsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABR0SVDBlElE0vufRvLVfDhzKA8qeA==
+C:\Users\David Pereira\Desktop\TF\observatory\project\Settings.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHBdsVePAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAIHNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cPd8JSx0AA5tYXhPdXRwdXRMaW5lc3NxAH4ADN3xDDp0AAZub3RpZnlzcQB+AAw2/uzkdAAIU2V0dGluZ3NzcQB+AAwEfLCJdAAEd2FpdHNxAH4ADI25n6p0AA0kYXNJbnN0YW5jZU9mc3EAfgAMFEU/Y3QABmVxdWFsc3NxAH4ADHByRrp0ABtzY2FsYVRlc3RSZXBvcnRGaWxlUHJvcGVydHlzcQB+AAxdFnjHdAAMYXNJbnN0YW5jZU9mc3EAfgAMM5zYrXQADHN5bmNocm9uaXplZHNxAH4ADKOMsn90AA0kaXNJbnN0YW5jZU9mc3EAfgAMUTHkZ3QAE3Rlc3RSZXN1bHRzRmlsZU5hbWVzcQB+AAw5L4IPdAAec2NhbGFUZXN0RGVmYXVsdFdlaWdodFByb3BlcnR5c3EAfgAM96vKa3QACW5vdGlmeUFsbHNxAH4ADPPzVup0AB5zY2FsYVRlc3RSZWFkYWJsZUZpbGVzUHJvcGVydHlzcQB+AAzF6MOjdAARc2NhbGFUZXN0UmVwb3J0ZXJzcQB+AAwpuM4PdAAMaXNJbnN0YW5jZU9mc3EAfgAMXCSaXXQAJnNjYWxhVGVzdEluZGl2aWR1YWxUZXN0VGltZW91dFByb3BlcnR5c3EAfgAMbTiV0XQAFnNjYWxhVGVzdERlZmF1bHRXZWlnaHRzcQB+AAyf9aKtdAATbWF4T3V0cHV0TGluZUxlbmd0aHNxAH4ADANEpKB0AAI9PXNxAH4ADNPY6fB0AAVjbG9uZXNxAH4ADADFmSl0ABVpbmRpdmlkdWFsVGVzdFRpbWVvdXRzcQB+AAyHISJRdAARbWF4U3VibWl0RmlsZVNpemVzcQB+AAxd6ZG+dAAIdG9TdHJpbmdzcQB+AAwH+1wtdAACIT1zcQB+AAzvdUvJdAAIZ2V0Q2xhc3NzcQB+AAyrNAo6dAAQc2NhbGFUZXN0VGltZW91dHNxAH4ADN1xJyJ0AAJuZXNxAH4ADDkpUhF0AAJlcXNxAH4ADNl3oMF0AAIjI3NxAH4ADETFA2d0AAhmaW5hbGl6ZXNxAH4ADLXBz790AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AFd4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cABxAH4AE3VyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cAFzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwcHNxAH4AbgFzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AV0wACWluaGVyaXRlZHEAfgBXTAAHcGFyZW50c3EAfgBXeHEAfgB1c3EAfgBuAXVxAH4AUgAAAABwc3EAfgBuAXVxAH4AUgAAAABwc3EAfgBuAXVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAACc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AdHQABk9iamVjdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AdHNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEamF2YXNxAH4AjXQABGxhbmdzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AjnNxAH4AgXQAA0FueXNxAH4AhXNxAH4AiHVxAH4AiwAAAAJzcQB+AI10AAVzY2FsYXEAfgCUcHB1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYFnUDAt1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABYQzpcVXNlcnNcRGF2aWQgUGVyZWlyYVxEZXNrdG9wXFRGXG9ic2VydmF0b3J5XHByb2plY3RcdGFyZ2V0XHNjYWxhLTIuMTBcc2J0LTAuMTNcY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFNfgByw8DBagGtDccnyX7Mz493ka
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuild.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHD0DCrQAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAALHNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cNwbmbh0AAZub3RpZnlzcQB+AAwpnkOOdAAEd2FpdHNxAH4ADMhEX0l0AAZjb3Vyc2VzcQB+AAxKh8zAdAANJGFzSW5zdGFuY2VPZnNxAH4ADJ21jvJ0AAxidWlsZExvYWRlcnNzcQB+AAxhC4OUdAAIY291cnNlSWRzcQB+AAyDofcFdAAEcm9vdHNxAH4ADBoexuZ0AAZlcXVhbHNzcQB+AAwiogCvdAAOYXNzaWdubWVudEluZm9zcQB+AAwv3CK3dAAMYXNJbnN0YW5jZU9mc3EAfgAM6qMJq3QAEnByb2plY3REZWZpbml0aW9uc3NxAH4ADKZQ/e50AAxzeW5jaHJvbml6ZWRzcQB+AAyrTQLbdAANJGlzSW5zdGFuY2VPZnNxAH4ADDA6UHJ0ABJzdWJtaXRMb2NhbFNldHRpbmdzcQB+AAy750zIdAAMZW5jb2RlQmFzZTY0c3EAfgAMyjpFfnQABnN1Ym1pdHNxAH4ADD8bnit0AAlub3RpZnlBbGxzcQB+AAyJdxdTdAANc3VibWl0U2V0dGluZ3NxAH4ADByXkiN0AAtyb290UHJvamVjdHNxAH4ADDpZ06V0AAxpc0luc3RhbmNlT2ZzcQB+AAyOq+HzdAAKcHJlcGFyZUphcnNxAH4ADKLsVSt0AApzdHlsZUNoZWNrc3EAfgAMQzLuF3QAFGNvbW1vblNvdXJjZVBhY2thZ2Vzc3EAfgAMVoN8GXQAAj09c3EAfgAMfUs303QAC3N1Ym1pdExvY2Fsc3EAfgAMOg+CC3QABWNsb25lc3EAfgAMA8dlTHQAE3NjYWxhVGVzdERlcGVuZGVuY3lzcQB+AAzqrhaKdAAdc291cmNlTWFwcGluZ3NXaXRob3V0UGFja2FnZXNzcQB+AAzqtXp7dAAWcGFja2FnZVN1Ym1pc3Npb25GaWxlc3NxAH4ADP6J6Bd0ABFwYWNrYWdlU3VibWlzc2lvbnNxAH4ADIZYxJ50AAh0b1N0cmluZ3NxAH4ADAojRQ10AAIhPXNxAH4ADLeFaiZ0AAhwcm9qZWN0c3NxAH4ADBFIMXN0AAxTdHVkZW50QnVpbGRzcQB+AAwhqIOHdAAIZ2V0Q2xhc3NzcQB+AAx/Sji5dAAKYXNzaWdubWVudHNxAH4ADCV0i3F0AAJuZXNxAH4ADK7Md5N0ABFzdHlsZUNoZWNrU2V0dGluZ3NxAH4ADGqbvnl0AAJlcXNxAH4ADBAYFzJ0AAhzZXR0aW5nc3NxAH4ADLirWHJ0AApmYWlsU3VibWl0c3EAfgAMSfrEUXQAAiMjc3EAfgAMfnznZXQACGZpbmFsaXplc3EAfgAMM1QzDXQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4Ab3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHEAfgBRdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAXNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBwc3EAfgCGAXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBvTAAJaW5oZXJpdGVkcQB+AG9MAAdwYXJlbnRzcQB+AG94cQB+AI1zcQB+AIYBdXEAfgBqAAAAAHBzcQB+AIYBdXEAfgBqAAAAAHBzcQB+AIYBdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAVzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgCMdAAQU3R1ZGVudEJ1aWxkTGlrZXNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AjHNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHNxAH4AmXQAC0NvbW1vbkJ1aWxkcQB+AJ9zcQB+AJl0AAVCdWlsZHNxAH4AnXNxAH4AoHVxAH4AowAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHEAfgCmdAADc2J0cQB+AKdzcQB+AJl0AAZPYmplY3RzcQB+AJ1zcQB+AKB1cQB+AKMAAAADc3EAfgCvdAAEamF2YXNxAH4Ar3QABGxhbmdxAH4Ap3NxAH4AmXQAA0FueXNxAH4AnXNxAH4AoHVxAH4AowAAAAJzcQB+AK90AAVzY2FsYXEAfgCncHB1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYFnUDAt1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABYQzpcVXNlcnNcRGF2aWQgUGVyZWlyYVxEZXNrdG9wXFRGXG9ic2VydmF0b3J5XHByb2plY3RcdGFyZ2V0XHNjYWxhLTIuMTBcc2J0LTAuMTNcY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFOyJ0J8ykxJu7l9BJ3eei/BSZ0CV
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHBsKmrIAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAQHNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cDnowLd0AAZub3RpZnlzcQB+AAyXehM5dAAMTWFwTWFwU3RyaW5nc3EAfgAMtKWlhnQAEFN0dWRlbnRCdWlsZExpa2VzcQB+AAxjbh90dAAEd2FpdHNxAH4ADDPaF390AAZjb3Vyc2VzcQB+AAzThq4zdAAOY29weSRkZWZhdWx0JDJzcQB+AAy6oR9gdAANJGFzSW5zdGFuY2VPZnNxAH4ADPMwI+p0AA5jb3B5JGRlZmF1bHQkNXNxAH4ADAzzrb50AAxidWlsZExvYWRlcnNzcQB+AAzQaEhWdAAIY291cnNlSWRzcQB+AAx/pS1VdAADbWFwc3EAfgAMuYOrBHQABHJvb3RzcQB+AAw0iFmddAAMcHJvZHVjdEFyaXR5c3EAfgAM7IlGuXQABmVxdWFsc3NxAH4ADMpQMVp0AA5hc3NpZ25tZW50SW5mb3NxAH4ADJyIyi90AAxhc0luc3RhbmNlT2ZzcQB+AAziS16hdAAScHJvamVjdERlZmluaXRpb25zc3EAfgAMKdpSyHQADkFzc2lnbm1lbnRJbmZvc3EAfgAMcNhjTnQADHN5bmNocm9uaXplZHNxAH4ADJh4iY90AA0kaXNJbnN0YW5jZU9mc3EAfgAMvGOpQnQAEnN1Ym1pdExvY2FsU2V0dGluZ3NxAH4ADFnPe/Z0AAxlbmNvZGVCYXNlNjRzcQB+AAz/iZPldAAIY2FuRXF1YWxzcQB+AAyN2xmWdAAGc3VibWl0c3EAfgAMLHUZ83QADmNvcHkkZGVmYXVsdCQ0c3EAfgAMptyiSnQADXByb2R1Y3RQcmVmaXhzcQB+AAz3qXiKdAAJbm90aWZ5QWxsc3EAfgAMwh4AxXQADXN1Ym1pdFNldHRpbmdzcQB+AAzMxzopdAALcm9vdFByb2plY3RzcQB+AAx9Zl4WdAADa2V5c3EAfgAMzmte6nQADGlzSW5zdGFuY2VPZnNxAH4ADN5K+mh0AAY8aW5pdD5zcQB+AAzgeolEdAAKcHJlcGFyZUphcnNxAH4ADPVbNh50AApzdHlsZUNoZWNrc3EAfgAMq6DSU3QAFGNvbW1vblNvdXJjZVBhY2thZ2Vzc3EAfgAMrsfj0nQAAj09c3EAfgAMQ1DGWHQAC3N1Ym1pdExvY2Fsc3EAfgAM6+ZREXQABWNsb25lc3EAfgAMNtoOWXQACnN0eWxlU2hlZXRzcQB+AAx9Vs4mdAATc2NhbGFUZXN0RGVwZW5kZW5jeXNxAH4ADHekC/J0AB1zb3VyY2VNYXBwaW5nc1dpdGhvdXRQYWNrYWdlc3NxAH4ADKXMkCh0AAZpdGVtSWRzcQB+AAzn3JifdAAWcGFja2FnZVN1Ym1pc3Npb25GaWxlc3NxAH4ADAaWmMx0ABFwYWNrYWdlU3VibWlzc2lvbnNxAH4ADFmRt8Z0AA5jb3B5JGRlZmF1bHQkM3NxAH4ADJm6+eZ0AARjb3B5c3EAfgAMUm4W7XQACHRvU3RyaW5nc3EAfgAMVjoDY3QAAiE9c3EAfgAMKAQBCHQACHByb2plY3Rzc3EAfgAMoYhb/nQACGdldENsYXNzc3EAfgAMZIbi0nQADXByZW1pdW1JdGVtSWRzcQB+AAyRGzqhdAAOY29weSRkZWZhdWx0JDFzcQB+AAypKx0IdAAKYXNzaWdubWVudHNxAH4ADBCSG7p0AAJuZXNxAH4ADDcW1i90AAZwYXJ0SWRzcQB+AAxpaBozdAARc3R5bGVDaGVja1NldHRpbmdzcQB+AAycApGgdAACZXFzcQB+AAzvrI0VdAAPcHJvZHVjdEl0ZXJhdG9yc3EAfgAMZG7XiXQACHNldHRpbmdzc3EAfgAMWyZpDXQACmZhaWxTdWJtaXRzcQB+AAyiE6O/dAACIyNzcQB+AAxCc8O9dAAIZmluYWxpemVzcQB+AAxAOiqpdAAOcHJvZHVjdEVsZW1lbnRzcQB+AAxKWXMcdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAADc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgCXeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAcQB+ADF1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAhDbGFzc0RlZnVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cAFzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwcHNxAH4ArgFzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4Al0wACWluaGVyaXRlZHEAfgCXTAAHcGFyZW50c3EAfgCXeHEAfgC1c3EAfgCuAXVxAH4AkgAAAABwc3EAfgCuAXVxAH4AkgAAAABwc3EAfgCuAXVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAAGc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AtHQADFNlcmlhbGl6YWJsZXNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AtHNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AznNxAH4AwXEAfgDEc3EAfgDFc3EAfgDIdXEAfgDLAAAAA3NxAH4AzXQABGphdmFzcQB+AM10AAJpb3EAfgDSc3EAfgDBdAAHUHJvZHVjdHEAfgDHc3EAfgDBdAAGRXF1YWxzcQB+AMdzcQB+AMF0AAZPYmplY3RzcQB+AMVzcQB+AMh1cQB+AMsAAAADc3EAfgDNcQB+ANhzcQB+AM10AARsYW5ncQB+ANJzcQB+AMF0AANBbnlxAH4Ax3Bwc3EAfgCUcQB+AKF1cQB+AKIAAAAAc3EAfgCkAHEAfgARdXEAfgCmAAAAAHEAfgCqdXEAfgCsAAAAAHNxAH4ArgFxAH4AtnBzcQB+AK4Bc3EAfgC4c3EAfgCuAXVxAH4AkgAAAABwc3EAfgCuAXVxAH4AkgAAAABwc3EAfgCuAXVxAH4AvwAAAAZzcQB+AMFxAH4AxHNxAH4AxXNxAH4AyHVxAH4AywAAAAJzcQB+AM1xAH4A0HEAfgDSc3EAfgDBcQB+AMRzcQB+AMVzcQB+AMh1cQB+AMsAAAADc3EAfgDNcQB+ANhzcQB+AM10AAJpb3EAfgDSc3EAfgDBcQB+ANxxAH4A+HNxAH4AwXQABkVxdWFsc3EAfgD4c3EAfgDBcQB+AOBzcQB+AMVzcQB+AMh1cQB+AMsAAAADc3EAfgDNcQB+ANhzcQB+AM1xAH4A5nEAfgDSc3EAfgDBcQB+AOhxAH4A+HBwc3EAfgCUcQB+AKF1cQB+AKIAAAAAc3EAfgCkAHEAfgATdXEAfgCmAAAAAHEAfgCqdXEAfgCsAAAAAHNxAH4ArgFxAH4AtnBzcQB+AK4Bc3EAfgC4c3EAfgCuAXVxAH4AkgAAAABwc3EAfgCuAXVxAH4AkgAAAABwc3EAfgCuAXVxAH4AvwAAAARzcQB+AMF0AAtDb21tb25CdWlsZHNxAH4AxXNxAH4AyHVxAH4AywAAAAFxAH4A0nNxAH4AwXQABUJ1aWxkc3EAfgDFc3EAfgDIdXEAfgDLAAAAAnNxAH4AzXQAA3NidHEAfgDSc3EAfgDBcQB+AOBzcQB+AMVzcQB+AMh1cQB+AMsAAAADc3EAfgDNcQB+ANhzcQB+AM1xAH4A5nEAfgDSc3EAfgDBcQB+AOhzcQB+AMVzcQB+AMh1cQB+AMsAAAACc3EAfgDNcQB+ANBxAH4A0nBwdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAABzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAWBZ1AwLdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAWEM6XFVzZXJzXERhdmlkIFBlcmVpcmFcRGVza3RvcFxURlxvYnNlcnZhdG9yeVxwcm9qZWN0XHRhcmdldFxzY2FsYS0yLjEwXHNidC0wLjEzXGNsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABRGqC4a/+kGjFNV064kfwZo1LubRA==
+C:\Users\David Pereira\Desktop\TF\observatory\project\StyleChecker.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHAPYNO4AHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAJHNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cMYRmT10AAZub3RpZnlzcQB+AAwBAc68dAAEd2FpdHNxAH4ADEXgygJ0AA0kYXNJbnN0YW5jZU9mc3EAfgAMxDOjbXQABmVxdWFsc3NxAH4ADHwbGyF0AAxhc0luc3RhbmNlT2ZzcQB+AAw15InYdAADcG9zc3EAfgAM+We3HHQADHN5bmNocm9uaXplZHNxAH4ADOpL5nV0AAVzY29yZXNxAH4ADO8MWO90AA0kaXNJbnN0YW5jZU9mc3EAfgAM5nyJTHQABWluZm9zc3EAfgAMy05A8XQACHdhcm5pbmdzc3EAfgAMWmLS23QABmVycm9yc3NxAH4ADDm4A3N0AAtlYWNoTWVzc2FnZXNxAH4ADIY5LvZ0AAVmaWxlc3NxAH4ADNq4ZWl0AAlub3RpZnlBbGxzcQB+AAzZUrWxdAAMaXNJbnN0YW5jZU9mc3EAfgAMqozU6nQACW1heFJlc3VsdHNxAH4ADGdrOWV0AAY8aW5pdD5zcQB+AAxeTfJ7dAAJZmlsZUNvdW50c3EAfgAM4H5eAnQAAj09c3EAfgAMazJ5hHQABmFzc2Vzc3NxAH4ADHo0SXZ0AAVjbG9uZXNxAH4ADFBWeVR0AAZyZXBvcnRzcQB+AAwh0c+xdAAHbWVzc2FnZXNxAH4ADJjayQ50AAh0b1N0cmluZ3NxAH4ADKYogRR0AAIhPXNxAH4ADGLD7tl0AA1tZXNzYWdlSGVscGVyc3EAfgAMMF6naHQADFN0eWxlQ2hlY2tlcnNxAH4ADC6nT+R0AAhnZXRDbGFzc3NxAH4ADP2mG4t0AAZvdXRwdXRzcQB+AAwNQGNbdAACbmVzcQB+AAzkavumdAACZXFzcQB+AAzl7NTKdAACIyNzcQB+AAzRexIcdAAIZmluYWxpemVzcQB+AAzpgwCtdAAIaGFzaENvZGVzcQB+AAzWqZeedAAQQ3VzdG9tVGV4dE91dHB1dHNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AF94cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cABxAH4ARXVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cAFzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwcHNxAH4AdgFzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AX0wACWluaGVyaXRlZHEAfgBfTAAHcGFyZW50c3EAfgBfeHEAfgB9c3EAfgB2AXVxAH4AWgAAAABwc3EAfgB2AXVxAH4AWgAAAABwc3EAfgB2AXVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAACc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AfHQABk9iamVjdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AfHNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEamF2YXNxAH4AlXQABGxhbmdzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AlnNxAH4AiXQAA0FueXNxAH4AjXNxAH4AkHVxAH4AkwAAAAJzcQB+AJV0AAVzY2FsYXEAfgCccHB1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYFnUDAt1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABYQzpcVXNlcnNcRGF2aWQgUGVyZWlyYVxEZXNrdG9wXFRGXG9ic2VydmF0b3J5XHByb2plY3RcdGFyZ2V0XHNjYWxhLTIuMTBcc2J0LTAuMTNcY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFHH6l9gpqQLjW60ediUixCy7tcg3
+external apis:
+0 items
+source infos:
+8 items
+C:\Users\David Pereira\Desktop\TF\observatory\project\CommonBuild.scala -> 
+AAAAAAAAAAA=
+C:\Users\David Pereira\Desktop\TF\observatory\project\Courses.scala -> 
+AAAAAAAAAAA=
+C:\Users\David Pereira\Desktop\TF\observatory\project\GradingFeedback.scala -> 
+AAAAAAAAAAA=
+C:\Users\David Pereira\Desktop\TF\observatory\project\ScalaTestRunner.scala -> 
+AAAAAAAAAAA=
+C:\Users\David Pereira\Desktop\TF\observatory\project\Settings.scala -> 
+AAAAAAAAAAA=
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuild.scala -> 
+AAAAAAAAAAA=
+C:\Users\David Pereira\Desktop\TF\observatory\project\StudentBuildLike.scala -> 
+AAAAAAAAAAA=
+C:\Users\David Pereira\Desktop\TF\observatory\project\StyleChecker.scala -> 
+AAAAAAAAAAA=
+compilations:
+3 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYDGQxat1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAWEM6XFVzZXJzXERhdmlkIFBlcmVpcmFcRGVza3RvcFxURlxvYnNlcnZhdG9yeVxwcm9qZWN0XHRhcmdldFxzY2FsYS0yLjEwXHNidC0wLjEzXGNsYXNzZXN0AAEv
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYFmlTil1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAWEM6XFVzZXJzXERhdmlkIFBlcmVpcmFcRGVza3RvcFxURlxvYnNlcnZhdG9yeVxwcm9qZWN0XHRhcmdldFxzY2FsYS0yLjEwXHNidC0wLjEzXGNsYXNzZXN0AAEv
+2 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYFnUDAt1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAWEM6XFVzZXJzXERhdmlkIFBlcmVpcmFcRGVza3RvcFxURlxvYnNlcnZhdG9yeVxwcm9qZWN0XHRhcmdldFxzY2FsYS0yLjEwXHNidC0wLjEzXGNsYXNzZXN0AAEv

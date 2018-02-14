@@ -1,0 +1,16 @@
+[0m[[0minfo[0m] [0mFast optimizing C:\Users\David Pereira\Desktop\TF\observatory\capstone-ui\target\scala-2.11\capstoneui-fastopt.js[0m
+[0m[[0mdebug[0m] [0mLinker: Compute reachability: 43855 us[0m
+[0m[[0mdebug[0m] [0mLinker: Assemble LinkedClasses: 17635 us[0m
+[0m[[0mdebug[0m] [0mBasic Linking: 64037 us[0m
+[0m[[0mdebug[0m] [0mInc. optimizer: Batch mode: false[0m
+[0m[[0mdebug[0m] [0mInc. optimizer: Incremental part: 19915 us[0m
+[0m[[0mdebug[0m] [0mInc. optimizer: Optimizing 4 methods.[0m
+[0m[[0mdebug[0m] [0mInc. optimizer: Optimizer part: 7379 us[0m
+[0m[[0mdebug[0m] [0mInc. optimizer: 30620 us[0m
+[0m[[0mdebug[0m] [0mRefiner: Compute reachability: 77183 us[0m
+[0m[[0mdebug[0m] [0mRefiner: Assemble LinkedClasses: 5584 us[0m
+[0m[[0mdebug[0m] [0mRefiner: 83390 us[0m
+[0m[[0mdebug[0m] [0mEmitter: Class tree cache stats: reused: 13 -- invalidated: 333[0m
+[0m[[0mdebug[0m] [0mEmitter: Method tree cache stats: resued: 1439 -- invalidated: 2[0m
+[0m[[0mdebug[0m] [0mEmitter (write output): 102008 us[0m
+[0m[[0mdebug[0m] [0mGlobal IR cache stats: reused: 48 -- invalidated: 7 -- trees read: 5[0m
